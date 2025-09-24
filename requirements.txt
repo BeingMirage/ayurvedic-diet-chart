@@ -1,0 +1,6 @@
+pandas
+ortools
+google-generativeai
+scikit-learn
+reportlab
+numpy

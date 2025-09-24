@@ -1,0 +1,101 @@
+S.No,Food,Rasa,Virya,Vipaka,Dosha_Effect
+1,Rice,Sweet,Cooling,Sweet,"Balances Vata and Pitta, Increases Kapha"
+2,Wheat,Sweet,Cooling,Sweet,"Balances Vata, Increases Kapha"
+3,Barley,"Sweet, Astringent",Cooling,Sweet,Balances Kapha and Pitta
+4,Mung Dal,"Sweet, Astringent",Cooling,Sweet,Balances all Doshas
+5,Black Gram,Sweet,Heating,Sweet,Increases Kapha and Pitta
+6,Kidney Beans,Sweet,Heating,Pungent,Increases Vata and Kapha
+7,Milk,Sweet,Cooling,Sweet,"Balances Vata and Pitta, Increases Kapha"
+8,Ghee,Sweet,Cooling,Sweet,"Balances Vata and Pitta, Increases Kapha"
+9,Butter,Sweet,Cooling,Sweet,"Balances Vata, Increases Kapha"
+10,Honey,"Sweet, Astringent",Heating,Sweet,"Balances Kapha, Increases Vata and Pitta if overused"
+11,Jaggery,Sweet,Heating,Sweet,"Balances Vata, Increases Kapha and Pitta"
+12,Sugarcane Juice,Sweet,Cooling,Sweet,"Balances Pitta, Increases Kapha"
+13,Apple,"Sweet, Astringent",Cooling,Sweet,Balances Pitta and Kapha
+14,Banana,Sweet,Cooling,Sweet,"Increases Kapha, Balances Vata"
+15,Mango,Sweet,Heating,Sweet,"Balances Vata, Increases Kapha and Pitta"
+16,Pomegranate,"Sweet, Astringent",Cooling,Sweet,Balances Pitta and Kapha
+17,Grapes,"Sweet, Astringent",Cooling,Sweet,Balances Vata and Pitta
+18,Orange,"Sour, Sweet",Cooling,Sour,"Balances Vata, Increases Pitta"
+19,Lemon,Sour,Heating,Sour,"Balances Vata and Kapha, Increases Pitta"
+20,Guava,"Sweet, Astringent",Cooling,Sweet,Balances Kapha and Pitta
+21,Papaya,Sweet,Heating,Sweet,"Balances Vata, Increases Pitta"
+22,Watermelon,Sweet,Cooling,Sweet,"Balances Pitta, Increases Kapha"
+23,Cucumber,Sweet,Cooling,Sweet,"Balances Pitta, Increases Kapha"
+24,Carrot,Sweet,Heating,Sweet,Balances Vata and Kapha
+25,Beetroot,Sweet,Cooling,Sweet,Balances Vata and Pitta
+26,Spinach,"Bitter, Astringent",Cooling,Pungent,"Balances Pitta, Increases Vata"
+27,Fenugreek Leaves,Bitter,Heating,Pungent,Balances Kapha
+28,Mustard Greens,"Pungent, Bitter",Heating,Pungent,"Balances Kapha, Increases Pitta"
+29,Cabbage,"Sweet, Astringent",Cooling,Sweet,"Balances Pitta, Increases Vata"
+30,Cauliflower,"Sweet, Astringent",Cooling,Sweet,"Balances Pitta, Increases Vata"
+31,Tomato,Sour,Heating,Sour,"Balances Vata, Increases Pitta"
+32,Onion,"Pungent, Sweet",Heating,Sweet,"Balances Vata, Increases Pitta"
+33,Garlic,Pungent,Heating,Pungent,"Balances Kapha and Vata, Increases Pitta"
+34,Ginger,"Pungent, Sweet",Heating,Sweet,"Balances Kapha, Increases Pitta"
+35,Turmeric,"Bitter, Pungent",Heating,Pungent,"Balances Kapha and Vata, Increases Pitta"
+36,Black Pepper,Pungent,Heating,Pungent,"Balances Kapha, Increases Vata and Pitta"
+37,Cumin,"Pungent, Bitter",Heating,Pungent,Balances Kapha and Vata
+38,Coriander,"Sweet, Astringent",Cooling,Sweet,Balances Pitta and Vata
+39,Fennel,Sweet,Cooling,Sweet,Balances Pitta and Vata
+40,Clove,Pungent,Heating,Pungent,Balances Kapha
+41,Cinnamon,"Sweet, Pungent",Heating,Sweet,Balances Kapha and Vata
+42,Cardamom,Sweet,Cooling,Sweet,Balances all Doshas
+43,Nutmeg,"Astringent, Bitter",Heating,Pungent,Balances Kapha
+44,Sesame Seeds,"Sweet, Bitter",Heating,Sweet,Balances Vata
+45,Almonds,Sweet,Heating,Sweet,Balances Vata
+46,Walnuts,"Bitter, Astringent",Heating,Pungent,Balances Kapha
+47,Cashews,Sweet,Heating,Sweet,Increases Kapha and Pitta
+48,Pistachios,Sweet,Heating,Sweet,"Balances Vata, Increases Kapha"
+49,Coconut,Sweet,Cooling,Sweet,Balances Pitta
+50,Coconut Water,Sweet,Cooling,Sweet,"Balances Pitta, Increases Kapha"
+51,Mustard Oil,Pungent,Heating,Pungent,"Balances Kapha, Increases Pitta"
+52,Olive Oil,Sweet,Cooling,Sweet,Balances Vata and Pitta
+53,Sunflower Oil,Sweet,Cooling,Sweet,Balances Pitta
+54,Coconut Oil,Sweet,Cooling,Sweet,Balances Pitta
+55,Neem,Bitter,Cooling,Pungent,Balances Pitta and Kapha
+56,Tulsi,Pungent,Heating,Pungent,"Balances Kapha, Increases Pitta"
+57,Ashwagandha,"Bitter, Astringent",Heating,Sweet,Balances Vata and Kapha
+58,Triphala,"Astringent, Bitter, Sweet",Cooling,Sweet,Balances all Doshas
+59,Amla,"Sour, Sweet",Cooling,Sweet,Balances all Doshas
+60,Haritaki,Astringent,Heating,Sweet,Balances Vata and Kapha
+61,Bibhitaki,"Bitter, Astringent",Cooling,Sweet,Balances Kapha and Pitta
+62,Giloy,Bitter,Heating,Sweet,Balances all Doshas
+63,Licorice,Sweet,Cooling,Sweet,"Balances Pitta and Vata, Increases Kapha"
+64,Brahmi,Bitter,Cooling,Sweet,Balances Pitta
+65,Shatavari,"Sweet, Bitter",Cooling,Sweet,Balances Pitta and Vata
+66,Gotu Kola,Bitter,Cooling,Sweet,Balances Pitta
+67,Manjistha,"Bitter, Astringent",Cooling,Sweet,Balances Pitta
+68,Coconut Chutney,Sweet,Cooling,Sweet,Balances Pitta
+69,Buttermilk,Sour,Heating,Sour,Balances Kapha and Vata
+70,Paneer,Sweet,Cooling,Sweet,"Balances Vata, Increases Kapha"
+71,Cheese,"Sour, Salty",Heating,Pungent,Increases Kapha and Pitta
+72,Yogurt,Sour,Heating,Sour,"Increases Kapha and Pitta, Balances Vata"
+73,Eggs,Sweet,Heating,Sweet,"Balances Vata, Increases Kapha and Pitta"
+74,Fish,"Sweet, Salty",Heating,Sweet,"Balances Vata, Increases Kapha"
+75,Chicken,Sweet,Heating,Sweet,"Balances Vata, Increases Pitta"
+76,Mutton,Sweet,Heating,Sweet,"Balances Vata, Increases Kapha and Pitta"
+77,Beef,"Sweet, Salty",Heating,Sweet,Increases Kapha and Pitta
+78,Pork,Sweet,Heating,Sweet,Increases Kapha
+79,Shrimp,"Salty, Sweet",Heating,Sweet,Increases Kapha and Pitta
+80,Crab,Salty,Heating,Sweet,Increases Kapha and Pitta
+81,Lentils,"Sweet, Astringent",Heating,Sweet,"Balances Pitta, Increases Vata"
+82,Chickpeas,"Sweet, Astringent",Cooling,Sweet,"Balances Pitta, Increases Vata"
+83,Peas,"Sweet, Astringent",Cooling,Sweet,"Balances Pitta, Increases Vata"
+84,Soybeans,Sweet,Cooling,Sweet,Balances Kapha
+85,Tofu,Sweet,Cooling,Sweet,Balances Pitta
+86,Pumpkin,Sweet,Cooling,Sweet,"Balances Pitta, Increases Kapha"
+87,Bottle Gourd,Sweet,Cooling,Sweet,Balances Pitta
+88,Bitter Gourd,Bitter,Cooling,Pungent,Balances Pitta and Kapha
+89,Drumstick (Moringa),"Bitter, Pungent",Heating,Pungent,Balances Kapha
+90,Brinjal (Eggplant),Bitter,Heating,Pungent,Balances Kapha
+91,Radish,Pungent,Heating,Pungent,Balances Kapha
+92,Turnip,"Bitter, Sweet",Heating,Sweet,Balances Vata
+93,Sweet Potato,Sweet,Cooling,Sweet,"Balances Vata and Pitta, Increases Kapha"
+94,Potato,Sweet,Cooling,Sweet,Increases Kapha and Vata
+95,Corn,Sweet,Heating,Sweet,"Balances Kapha, Increases Vata"
+96,Pear,"Sweet, Astringent",Cooling,Sweet,Balances Pitta
+97,Strawberry,"Sweet, Astringent",Cooling,Sweet,Balances Pitta
+98,Blueberry,"Sweet, Astringent",Cooling,Sweet,Balances Pitta and Kapha
+99,Blackberry,Astringent,Cooling,Sweet,Balances Pitta
+100,Dates,Sweet,Cooling,Sweet,"Balances Vata and Pitta, Increases Kapha"

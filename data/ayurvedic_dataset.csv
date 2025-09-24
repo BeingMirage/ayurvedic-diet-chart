@@ -1,0 +1,985 @@
+Food,Rasa,Virya,Vipaka,Dosha_Effect
+Palak Paneer,"Sweet, Astringent",Heating,Sweet,"Balances Vata and Pitta, lightly increases Kapha"
+Aloo Paratha,"Sweet, Salty, Pungent",Heating,Sweet,Balances all three doshas with a slight Kapha rise
+Gobhi Masala,"Bitter, Pungent",Heating,Pungent,"Balances Vata and Kapha, modestly excites Pitta"
+Veg Biryani,"Sweet, Salty, Astringent",Heating,Sweet,"Balances Vata, moderately elevates Pitta, light Kapha increase"
+Paneer Sandwich,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, soothes Pitta"
+Masala Dosa,"Sweet, Sour, Salty",Heating,Sour,"Balances Vata and Pitta, reduces Kapha slightly"
+Pasta Alfredo,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata, increases Kapha slightly, cools Pitta"
+Veg Burger,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata and Kapha, helps with Pitta regulation"
+Rajma Chawal,"Sweet, Salty, Sour",Heating,Sour,"Balances Vata, mildly increases Pitta, reduces Kapha"
+Chana Masala,"Pungent, Bitter, Sweet",Heating,Pungent,"Balances Vata, elevates Pitta, reduces Kapha"
+Kadhi Chawal,"Sweet, Sour, Salty",Cooling,Sweet,"Balances all doshas, particularly soothing Pitta"
+Baingan Bharta,"Pungent, Bitter, Sweet",Heating,Pungent,"Balances Vata, moderately raises Kapha, calms Pitta"
+Daal Tadka,"Sweet, Pungent, Salty",Heating,Sweet,"Balances Vata, increases Pitta slightly, reduces Kapha"
+Mutter Paneer,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata and Pitta, strengthens Kapha confidence"
+Roti and Dal,"Salty, Sweet",Cooling,Sweet,"Balances all three doshas, stabilizes Kapha"
+Gajar Muli Ki Sabzi,"Sweet, Pungent",Heating,Pungent,"Balances Vata, softens Pitta, reduces Kapha"
+Chole Masala,"Pungent, Sour",Heating,Sour,"Balances Kapha, stimulates Pitta reduction"
+Mushroom Matar,"Sweet, Astringent",Cooling,Sweet,"Balances Vata and Kapha, cools Pitta"
+Dal Tadka,"Pungent, Bitter",Heating,Pungent,"Balances Vata, reduces Kapha"
+Kadhi Pakora,"Sour, Salty, Pungent",Heating,Sour,"Balances Kapha, agitates Pitta with excess frying"
+Jeera Rice,"Salty, Earthy",Cooling,Sweet,"Balances Vata and Kapha, gentle on Pitta"
+Matar Paneer,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Pitta, supports Kapha management"
+Aloo Gobi,"Sweet, Pungent",Heating,Pungent,"Balances Vata, increases Kapha if heavy on oil"
+Idli Sambar,"Savory, Sour",Cooling,Sour,"Balances all three doshas, particularly Pitta through cooling effect"
+Roti with Chutney,"Salty, Sweet, Tangy",Cooling,Sweet,"Balances Vata and Pitta, light on Kapha"
+Chole with Bhature,"Spicy, Salty",Heating,Pungent,Balances Kapha; may increase Pitta with heavy oils
+Masoor Dal,"Sweet, Bitter",Heating,Sweet,"Calms Vata, supports Pitta balance"
+Mushroom Khichdi,"Savory, Astringent",Cooling,Sweet,"Balances Vata and Kapha, light for Pitta"
+Butter Chicken (Vegetarian Style),"Sweet, Sour",Heating,Sweet,Balances Vata; may increase Pitta with spice
+Tandoori Paneer,"Spicy, Sour",Heating,Pungent,"Stimulates Agni, balances Vata; may increase Pitta with heavy spices"
+Cauliflower Tikka,"Pungent, Sweet",Heating,Pungent,Balances Kapha; stimulates Vata for energy
+Bhindi Masala,"Sweet, Spicy",Cooling,Sweet,Balances Vata and Kapha; gentle for Pitta with moderate spices
+Gajar Halwa,Sweet,Cooling,Sweet,Nourishes Kapha; soothing for Vata; calming for Pitta when moderate
+Vegetable Biryani,"Sweet, Pungent, Salty",Heating,Sweet,"Balances Vata and Pitta, may elevate Kapha when rich in ghee"
+Khichdi,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, pacifies Pitta with mild spices"
+Rajpan Sabzi,"Sweet, Sour, Bitter",Cooling,Sour,"Balances Pitta, calms Vata when boiled; reduces Kapha slightly"
+Steamed Dimsums with Veg Filling,"Salty, Sweet",Cooling,Sweet,"Balances Vata and Kapha, light on Pitta"
+Sambar Rice,"Sour, Sweet, Bitter",Heating,Sour,"Balances Pitta and Kapha, stabilizes Vata with legumes"
+Kimchi Fried Rice,"Sour, Pungent, Salty",Heating,Sour,"Stimulates Agni; balances Kapha when used in moderation, can aggravate Pitta"
+Moong Dal Khichdi,"Sweet, Umami",Cooling,Sweet,"Balances Vata and Kapha, pacifies Pitta with gentle spices"
+Chole Tikki,"Spicy, Sour",Heating,Pungent,"Balances Kapha and Vata, warms digestive fire"
+Sambar with Idli,"Sour, Sweet, Umami",Cooling,Sweet,"Balances Vata and Kapha, mildly soothing for Pitta"
+Rasam with Rice,"Tangy, Spicy",Heating,Pungent,"Balances Vata and Kapha, can stimulate Agni; may elevate Pitta with chili"
+Chicken Curry (vegetarian style),"Spicy, Sweet",Heating,Pungent,"Balances Vata and Kapha, can aggravate Pitta with heavy spices"
+Tofu Stir-Fry with Veggies,"Sweet, Savory",Cooling,Sweet,"Balances Vata and Pitta, pacifies Kapha with light oil use"
+Mango Lassi,"Sweet, Sour",Cooling,Sweet,"Balances Vata and Kapha, Pitta may be pacified slightly"
+Chana Chaat,"Sweet, Sour, Salty, Tangy",Cooling,Sweet,"Balances Vata and Kapha, Pitta stabilized by tangy flavors"
+Rasam,"Spicy, Sour",Heating,Sour,"Balances Kapha, Vata may be stimulated by heat"
+Kadhi,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Pitta and Kapha, Vata slightly increased with yogurt"
+Tomato Basil Pasta,"Sweet, Sour, Umami",Cooling,Sweet,"Balances Vata and Pitta, reduces Kapha mainly through herbs"
+Coconut Curry,"Sweet, Salty, Sour",Cooling,Sweet,"Balances Vata and Kapha, Pitta may be pacified by coconutfat"
+Pad Thai (Vegetarian),"Sweet, Sour, Salty, Umami",Heating,Sweet,"Balances all doshas, with emphasis on Kapha reduction"
+Chole Chawal,"Pungent, Sweet",Heating,Pungent,"Balances Kapha, stimulates digestion in Pitta; may irritate Vata if heavy"
+Rajma Rice,"Sweet, Pungent",Heating,Sweet,"Balances Kapha, supports Vata in dry conditions"
+Mushroom Risotto,"Sweet, Umami (Salty)",Cooling,Sweet,"Balances Vata and Kapha, cools Pitta slightly"
+Tofu Stir Fry,"Salty, Sweet",Cooling,Sweet,"Balances Vata, Pitta; light on oil reduces Kapha"
+Paneer Tikka,"Sweet, Salty, Pungent",Heating,Pungent,"Stimulates Pitta, balances Kapha, can aggravate Vata with heavy spices"
+Masala Chole,"Pungent, Sweet, Sour",Heating,Sweet,Balances Vata-Pitta; reduces Kapha when portioned modestly
+Methi Thepla,"Sweet, Salty, Bitter",Cooling,Sweet,Balances Vata; cools Pitta; slight Kapha modulation
+Tamarind Rice,"Sour, Sweet, Salty",Heating,Sour,Balances Vata and Pitta; may increase Kapha with excessive tamarind and oil
+Coconut Rice,"Sweet, Salty, Creamy (not a listed rasa)",Cooling,Sweet,Nourishes Vata and Kapha; pacifies Pitta when light on spice
+Gobi 65,"Pungent, Salty, Sour",Heating,Pungent,Excites Kapha; balances Vata; mildly reduces Pitta with minimal oil
+Baajre ki Roti with Saag,"Sweet, Bitter, Astringent",Cooling,Sweet,"Balances Vata, pacifies Pitta, supports Kapha regulation"
+Mango Sticky Rice,"Sweet, Sour",Cooling,Sweet,"Balances Kapha, nourishes Pitta with lightness for Vata"
+Tomato Rice,"Sour, Sweet, Salty",Cooling,Sweet,"Balances Pitta, pacifies Vata, moderate Kapha increase"
+Coconut Chutney,"Sweet, Sour, Salty",Cooling,Sweet,"Balances all three doshas, especially Pitta-prone"
+Mushroom Makhani,"Sweet, Sour, Rich",Cooling,Sweet,"Balances Vata and Pitta, Mild Kapha increase"
+Butter Paneer Kulcha,"Sweet, Salty, Rich",Heating,Sweet,Balances Vata; Pitta soft balance; Kapha stable
+Sprouted Moong Chilla,"Sweet, Astringent",Cooling,Sweet,"Balances Vata and Kapha, calms Pitta"
+Quinoa Tikki,"Sweet, Spicy",Heating,Pungent,"Balances Kapha, reduces Vata; Pitta slightly stimulated"
+Palak Paneer with Garlic Aioli,"Sweet, Astringent",Cooling,Sweet,"Balances Vata and Pitta, slightly increases Kapha"
+Aloo Paratha with Jeera Yogurt,"Sweet, Salty, Astringent",Heating,Sweet,"Balances Vata and Kapha, strengthens digestion"
+Gobhi Masala with Turmeric Crunch,"Pungent, Bitter",Heating,Pungent,"Balances Pitta, reduces Kapha"
+Veg Biryani with Saffron Bloom,"Sweet, Pungent",Heating,Sweet,Balances all three doshas with slight Kapha reduction
+Paneer Sandwich with Mint Chutney,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Vata, supports Pitta stability"
+Masala Dosa with Coconut Chutney,"Sweet, Sour, Pungent",Heating,Pungent,"Balances Kapha, stimulates Agni (digestion)"
+Rajma Chawal with Ghee Drizzle,"Sweet, Salty, Astringent",Heating,Sweet,"Balances Vata and Kapha, energizes digestion"
+Chana Masala with Turmeric Rice,"Pungent, Sweet, Sour",Heating,Pungent,"Balances Pitta, slightly increases Kapha"
+Methi Thepla with Curd,"Sweet, Salty, Astringent",Cooling,Sweet,"Balancing for Vata and Kapha, supports digestion"
+Baingan Bharta with Lemon,"Sour, Pungent, Bitter",Heating,Pungent,"Balances Pitta, reduces Kapha, steadies Vata"
+Kadhi with Coriander Rice,"Sweet, Sour, Bitter",Cooling,Sweet,"Balances Vata and Pitta, gentle on Kapha"
+Masala Chai with Cardamom,"Sweet, Astringent, Bitter",Cooling,Sweet,"Calms Vata, stabilizes Kapha"
+Koddi Sarao (Okra Fry),"Sweet, Pungent",Heating,Pungent,"Balances Kapha, stimulates digestion"
+Dudhi Halwa (Bottle Gourd Pudding),"Sweet, Mild",Cooling,Sweet,"Balances Vata, Pacifies Kapha"
+Mughlai Paneer Roll,"Sweet, Salty, Pungent",Heating,Pungent,"Balances Kapha, supports metabolism of fats"
+Amlaki Rice with Ginger,"Sour, Pungent, Astringent",Heating,Sour,"Balances Pitta, reduces Kapha, stimulates digestion"
+Sabudana Khichdi with Peanuts,"Sweet, Salty, Nutty",Cooling,Sweet,"Balances Vata, provides steady energy"
+Tomato Daal with Ghee,"Sweet, Sour, Pungent",Heating,Pungent,"Balances Vata and Pitta, increases Kapha"
+Quinoa Khichdi,"Sweet, Umami (savory)",Cooling,Sweet,"Balances Vata and Kapha, slightly reduces Pitta"
+Kitchari,"Sweet, Astringent",Cooling,Sweet,"Pacifies Vata and Kapha, mildly reduces Pitta"
+Chole Bhature,"Sweet, Sour, Spicy",Heating,Pungent,"Balances Kapha, may aggravate Pitta"
+Baingan Raita,"Salty, Sour, Sweet",Cooling,Sour,"Balances Pitta, calms Vata slightly"
+Fish Curry (Ayurveda-inspired),"Spicy, Sour, Sweet",Heating,Sour,"Balances Pitta, nourishes Vata, can increase Kapha with rich oils"
+Tofu Stir-Fry with Vegetables,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata and Kapha, gentle for Pitta"
+Pulao with vegetables,"Sweet, Salty",Cooling,Sweet,Balances Vata and Kapha
+Daal Bateta,"Sweet, Salty",Cooling,Sweet,"Balances Vata, Maintains digestion"
+Jeera Rice with vegetables,"Smoky, Earthy",Cooling,Sweet,"Balances Vata, Supports digestion"
+Vegetable Kurma,"Sweet, Nutty",Cooling,Sweet,Balances Vata and Kapha
+Pulao with Vegetables,"Sweet, Salty",Cooling,Sweet,"Balances Vata, calms Pitta, lowers Kapha tendency"
+Rajma Curry,"Sweet, Sour, Pungent",Heating,Pungent,"Balances Kapha, may increase Vata with low moisture content"
+Mint-Coriander Rice,"Sweet, Fresh",Cooling,Sweet,"Balances Vata and Kapha, light for Pitta"
+Lemon-Tooked Chickpeas,"Sour, Pungent, Astringent",Cooling,Sour,"Balances Kapha, stimulates Vata in moderation"
+Mushroom Masala,"Sweet, Umami, Pungent",Heating,Pungent,"Balances Pitta, mildly calms Vata"
+Kutchi Dabeli,"Sweet, Sour, Spicy",Heating,Pungent,"Balances Kapha, stimulates Vata during craving cycles"
+Tomato and Cumin Lentils,"Sweet, Sour, Bitter",Cooling,Sweet,Balances all doshas with emphasis on Kapha reduction
+Rajma Rice Bowl,"Sweet, Salty",Heating,Sweet,"Balances Vata, Supports digestion for heavy meals"
+Bhindi Do Pyaza,"Sweet, Pungent",Heating,Pungent,"Balances Kapha and Pitta, energizes Vata when needed"
+Spring Vegetable Raita,"Sweet, Salty, Tart",Cooling,Sweet,"Balances Vata and Pitta, pacifies Kapha when dairy is moderate"
+Spinach Tortellini,"Sweet, Umami, Salty",Cooling,Sweet,"Balances Vata, supports digestion when paired with olive oil"
+Baked Tadiq (Sesame) Rice,"Nutty, Salty, Sweet",Cooling,Sweet,"Balances Vata and Kapha, pacifies Pitta with moderate spices"
+Tofu Scramble with Turmeric,"Salty, Bitter, Umami",Cooling,Sweet,"Balances Vata and Pitta, light on Kapha"
+Baingan Bartha,"Sweet, Sour, Smoky",Cooling,Sweet,"Balances Vata and Pitta, light on Kapha"
+Bailey’s Veg Chili,"Spicy, Sour, Salty",Heating,Pungent,"Balances Vata and Kapha, can stimulate Pitta if hot"
+Mushroom Mutter Paneer,"Sweet, Umami",Cooling,Sweet,"Balances Vata and Kapha, cooling to Pitta"
+Sweet Potato Curry,"Sweet, Mild Spicy",Cooling,Sweet,"Balances Vata, pacifies Pitta, supports Kapha with moderate spices"
+Cabbage Thoran,"Sweet, Bitter",Cooling,Sweet,"Balances Vata and Pitta, light for Kapha"
+Beetroot Risotto,"Sweet, Earthy",Cooling,Sweet,"Balances Vata and Kapha, gentle for Pitta"
+Pasta Alfredo (Vegetarian),"Creamy, Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, may increase Kapha if rich in dairy"
+Veg Burger with Whole Wheat Bun,"Sweet, Salty, Umami",Heating,Sweet,"Balances Vata, supports Pitta balance with moderate chewing exercise"
+Masala Chole with Bhature,"Sweet, Sour, Spicy",Heating,Pungent,"Balances Kapha, decreases Vata when sour-spicy profile is moderate"
+Dal Tadka with Jeera Rice,"Sweet, Bitter, Astringent",Heating,Sweet,"Balances Vata and Pitta, stabilizes Kapha"
+Ragi Mudde with Soppu,"Earthy, Slightly Sweet",Cooling,Sweet,"Balances Vata and Kapha, grounding effect"
+Muthia Sabzi,"Savory, Mild Sweet",Cooling,Sweet,"Soothes Vata, balances Kapha, supports Pittas calmness"
+Chole-Kadhi,"Sweet, Sour, Spicy",Heating,Pungent,"Balances Vata, increases Pitta with heavy spice"
+Aeglici Paneer Tikka,"Savory, Spicy",Heating,Pungent,"Balances Vata and Pitta, moderate Kapha increase"
+Pesto Pasta,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata and Kapha, lightens Pitta"
+Makhani Paneer,"Sweet, Rich",Heating,Sweet,"Balances Pitta, increases Kapha when heavy"
+Tandoori Vegetables,"Salty, Spicy, Sour",Heating,Pungent,"Balances Vata, increases Pitta with heavy spice"
+Coconut Veg Curry,"Sweet, Salty, Sour",Cooling,Sweet,"Balances Vata, pacifies Kapha"
+Lemon Rice,"Sour, Sweet",Cooling,Sour,"Balances Pitta, mildly pacifies Kapha"
+Sweet Potato Kichdi,"Sweet, Mild",Cooling,Sweet,"Balances Vata, gentle on digestion"
+Rajma Thali,"Sweet, Rich, Salty",Heating,Sweet,"Balances Kapha, supports digestion in Vata"
+Moringa Dal,"Earthy, Nutty",Cooling,Sweet,"Balances Vata, lowers Pitta slightly"
+Carrot Gajar Halwa,"Sweet, Rich",Heating,Sweet,"Balances Kapha, energizes Vata"
+Butter Chicken (Vegetarian Alternative),"Salty, Sweet, Sour",Heating,Sweet,"Balances Vata and Kapha, elevates Pitta slightly"
+Rajgira Thalipeeth,"Sweet, Nutty",Cooling,Sweet,"Balances Vata and Kapha, light for stomach"
+Rogan Josh (Vegetarian),"Spicy, Rich",Heating,Pungent,"Balances Kapha, slightly elevates Pitta, calms Vata with yogurt"
+Puri with Chole,"Salty, Sour",Heating,Sour,"Balances Kapha, cools Pitta with yogurt accompaniments"
+Jeera Rice with Cucumber Raita,"Salty, Sweet, Astringent",Cooling,Sweet,"Balances Vata and Pitta, reduces Kapha tendencies"
+Tofu Stir-fry with Vegetables,"Sweet, Salty, Umami",Heating,Sweet,"Balances Vata and Kapha, supports Pitta with light oils"
+Mango Curry,"Sweet, Sour",Cooling,Sweet,Balances all three doshas with fruity acidity
+Cashew Pulao,"Sweet, Nutty",Heating,Sweet,"Balances Vata, mildly elevates Kapha with rich fat content"
+Palak Paneer with Walnut Crust,"Sweet, Salty, Astringent",Heating,Sweet,"Balances Vata and Pitta, Slightly increases Kapha"
+Aloo Paratha with Mint Chutney,"Sweet, Salty",Heating,Sweet,"Balances Vata, Pacifies Kapha with digestive effort"
+Gobhi Masala (Cauliflower Curry),"Sweet, Pungent, Bitter",Heating,Pungent,"Balances Kapha, Slightly reduces Pitta"
+Veg Biryani with Saffron,"Sweet, Pungent, Astringent",Heating,Sweet,Balances all doshas with strong digestion
+Mung Dal Khichdi,"Sweet, Astringent",Cooling,Sweet,"Balances Vata and Kapha, gently supports digestion"
+Paneer Tikka with Bell Pepper,"Sweet, Salty, Pungent",Heating,Pungent,"Balances Pitta, mildly increases Kapha"
+Chana Masala with Rice,"Sweet, Salty, Pungent",Heating,Pungent,"Balances Pitta and Vata, reduces Kapha"
+Khichdi with Ghee,"Sweet, Fatty",Cooling,Sweet,"Balances Vata, nourishes Kapha in moderation"
+Tamarind Rice (Puliyodarai),"Sour, Sweet, Salty",Cooling,Sour,"Balances Vata and Pitta, light on Kapha"
+Rajma Curry with Jeera Rice,"Sweet, Pungent, Salty",Heating,Pungent,"Balances Vata, supports Pitta, mild Kapha increase"
+Broccoli Makhani (Creamy),"Sweet, Sour, Salty",Heating,Sweet,"Balances Vata and Pitta, gentle Kapha rise"
+Beetroot and Quinoa Pulao,"Sweet, Astringent",Cooling,Sweet,"Balances Vata, reduces Kapha while energizing Pitta"
+Cabbage and Carrot Stir-Fry,"Sweet, Pungent",Heating,Pungent,"Stimulates Agni, balances Vata, may increase Kapha if heavy"
+Matar Paneer (Peas and Paneer),"Sweet, Salty, Slightly Sour",Heating,Sweet,"Balances Kapha, lightens Pitta, supports Vata"
+Ragi Mudde with Soppina Saaru,"Sweet, Umami",Cooling,Sweet,"Balances Vata and Kapha, grounding for digestion"
+Dal Tadka with Lauki,"Sweet, Sour, Salty",Heating,Pungent,"Balances Vata, reduces Kapha, moderate Pitta support"
+Tomato Rasam with Tadka,"Sour, Salty, Sweet",Heating,Sour,"Balances Vata and Kapha, stimulates digestion"
+Paneer Bhurji with Spinach,"Sweet, Salty, Umami",Heating,Sweet,"Balances Vata and Pitta, mildly increases Kapha"
+Veg Curry with Lentils,"Sweet, Sour",Heating,Sweet,"Balances Vata and Pitta with moderate spice, may reduce Kapha when legumes are dry-roasted"
+Chole Chawal (Chickpea & Rice),"Sweet, Sour",Heating,Sour,"Balances Vata and Kapha, stimulates digestion for some Pitta types"
+Kheer (Rice Pudding),"Sweet, Rich",Cooling,Sweet,"Balances Vata and Kapha, soothing for Pitta when dairy is moderate"
+Mung Dal Tadka,"Bitter, Pungent, Salty",Heating,Pungent,"Balances Vata, calms Kapha, can mildly aggravate Pitta with heavy tempering oil"
+Dhokla,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Kapha and Vata, mild Vata relief, gentle on digestion"
+Ragi Mudde,"Earthy, Mild",Cooling,Sweet,"Grounds Vata, balances Pitta, supportive for Kapha when consumed with vegetables"
+Sattu Lassi,"Sweet, Sour",Cooling,Sweet,"Pacifies Pitta, balances Kapha, soothing Vata digestively"
+Bateta Nu Bhonu,"Salty, Sour",Heating,Sour,"Balances Vata, reduces Kapha when eaten with ghee; can mildly elevate Pitta with heat"
+Tadka Chawal,"Salty, Spicy",Heating,Pungent,"Balances Vata and Kapha, increases Pitta with heavy spice pressure"
+Sundal,"Nutty, Salty",Cooling,Sweet,"Balances Vata and Kapha, gentle for Pitta"
+Palak Paneer with Nutmeg,"Sweet, Astringent",Heating,Sweet,"Balances Vata and Pitta, Slightly increases Kapha"
+Gobhi Masala with Peas,"Pungent, Sweet",Heating,Pungent,Balances Vata; increases Kapha if eaten in excess
+Paneer Sandwich with Whole Wheat,"Sweet, Salty",Cooling,Sweet,Balances Kapha; calms Pitta; may mildly reduce Vata when warm
+Pasta Alfredo with Basil,"Sweet, Umami",Cooling,Sweet,Balances Vata; can increase Kapha if heavy on cheese
+Veg Burger with Chickpea Patty,"Sweet, Salty, Pungent",Heating,Sweet,Balances Vata; may increase Pitta with spicy sauces
+Miso Ramen with Tofu,"Salty, Umami, Pungent",Heating,Sour,Balances Kapha; may aggravate Pitta if soy is overused
+Quinoa Khichdi with Turmeric,"Sweet, Astringent",Heating,Sweet,Balances all three doshas in moderate portions
+Rajma-Chawal with Ghee,"Sweet, Salty",Heating,Sweet,Balances Vata and Kapha; can increase Pitta with excess ghee
+Baingan Bharta with Jeera,"Pungent, Sweet",Cooling,Pungent,Balances Kapha; calms Vata when eaten warm
+Seaweed Salad with Sesame,"Salty, Sour, Umami",Cooling,Sour,Balances Vata and Kapha; may reduce Pitta when light on oil
+Lentil Dahl with Mustard Seeds,"Sweet, Pungent",Heating,Sweet,Balances Vata; supports Pitta in moderation
+Kadhi with Rice Mix,"Sweet, Sour, Salty",Heating,Sweet,Balances all three doshas when portions are balanced
+Chole with Spinach,"Sweet, Sour, Pungent",Heating,Pungent,Balances Vata and Pitta; may increase Kapha if heavy on oil
+Rajma Chawal (Kidney Beans with Rice),"Sweet, Salty, Pungent",Heating,Sweet,Balances Vata in fiber-rich meal; supports Kapha digestion
+Chickpea Tikka Wrap,"Salty, Pungent, Sweet",Heating,Pungent,Increases Agni; balances Vata with protein and fiber
+Jeera Rice with Mixed Veg,"Sweet, Nutty (Astringent)",Cooling,Sweet,"Soothes Vata, supports Kapha balance when veggies are varied"
+Tofu Stir-fry with Quinoa,"Salty, Sour, Umami (Pungent)",Cooling,Sour,"Balances Vata and Kapha, may slightly reduce Pitta awareness"
+Mushroom Pulao,"Sweet, Salty, Pungent",Heating,Pungent,"Activates Agni, balances Vata with whole grains"
+Kaddu Sabzi (Pumpkin Stir-fry),"Sweet, Astringent",Cooling,Sweet,"Pacifies Pitta, calms Vata with fiber-rich pumpkin"
+Carrot Beetroot Salad with Chaat Masala,"Sweet, Sour, Salty",Cooling,Sweet,Balances all doshas when eaten fresh and with oil-free dressing
+Green Gram Idli,"Sweet, Salty",Cooling,Sweet,Promotes Vata-Ditta harmony; gentle on Kapha with proper digestion
+Samosa Chaat,"Salty, Sour, Spicy",Heating,Pungent,"Balances Kapha, increases Vata in heavy snack portions"
+Kadai Paneer,"Pungent, Sweet",Heating,Pungent,"Balances Pitta, increases Kapha with rich gravy"
+Quinoa Pulao,"Sweet, Sour",Cooling,Sweet,"Balances all three doshas, especially Vata and Kapha"
+Baileys Pasta,"Sweet, Creamy",Cooling,Sweet,"Balances Vata, lightly pacifies Kapha with dairy balance"
+Miso Soup with Tofu,"Umami, Salty",Cooling,Sweet,Calms Vata and Kapha; mildly balances Pitta.
+Thai Green Curry,"Sweet, Sour, Pungent",Heating,Pungent,Balances Vata and Kapha; Pitta can rise with coconut milk.
+Bibimbap,"Sweet, Salty, Bitter",Heating,Sweet,Balances Vata and Kapha; Pitta remains stable with light sesame oil.
+Quinoa Vegetable Stir-Fry,"Sweet, Salty, Astringent",Cooling,Sweet,Balances all doshas with balanced vegetables and minimal oil.
+Lentil Soup,"Sweet, Sour",Cooling,Sweet,Balances Vata and Kapha; Pitta may rise slightly with tangy lemon.
+Tandoori Chicken (Paneer variant),"Pungent, Salty",Heating,Pungent,Balances Kapha and Pitta; may aggravate Vata if heavy on yogurt.
+Sushi Nigiri (Avocado Veg),"Sweet, Umami",Cooling,Sweet,Balances Vata; Pitta stable; Kapha may rise with avocado portion.
+Ratatouille with Quinoa,"Sweet, Sour",Cooling,Sweet,Balances Vata and Pitta; Kapha neutral with varied vegetables.
+Butter Chicken (Tofu),"Sweet, Salty, Pungent",Heating,Sweet,Balances Vata; may increase Pitta with rich sauce.
+Makhana Kheer,"Sweet, Astringent",Cooling,Sweet,Calms Vata and Pitta; Kapha may rise with excess milk and nuts.
+Tomato Basil Soup,"Sweet, Sour",Cooling,Sour,Balances Kapha; pacifies Pitta when not overly acidic
+Rajma,"Sweet, Salty",Heating,Sweet,Balances Vata and Kapha; can elevate Kapha if served in large portions
+Spinach Lemon Rice,"Sweet, Sour",Cooling,Sour,Balances Vata and Pitta; light on Kapha
+Lemon Rice with Beans,"Sour, Umami, Salty",Cooling,Sour,Pacifies Pitta; balances Kapha with moderate portions
+Pakhala Bhata (Fermented Rice),"Sour, Salty",Cooling,Sour,Balances Vata; Reduces Pitta; Mild Kapha increase
+Corn Do-Piaza,"Sweet, Spicy, Sour",Heating,Sweet,Balances Vata; Pitta may rise slightly; Kapha balanced
+Tawa Frying Paneer,"Sweet, Salty, Spicy",Heating,Pungent,Balances Vata; Pitta slightly increased; Kapha stable
+Sarson Ka Saag with Makki Di Radi,"Bitter, Sweet, Astringent",Cooling,Sweet,"Balances all doshas, with Pitta reduction"
+Jeera Rice with Vegetables,"Nutty, Sweet, Salty",Cooling,Sweet,"Soothes Vata, supports balanced Pitta and Kapha"
+Tofu Stir-fry,"Sweet, Salty, Pungent",Heating,Pungent,"Energizes Kapha, calms Vata and Pitta with proper sauce balance"
+Kathi Roll (Veg),"Sweet, Sour, Salty",Heating,Sweet,"Balances Vata, can elevate Kapha if heavy fillings"
+Baati Churma (vegetarian variant),"Sweet, Salty, Bitter",Heating,Sweet,"Stimulates digestive fire, may imbalance Kapha if used in excess"
+Coconut Dal,"Sweet, Salty",Cooling,Sweet,"Soothes Vata, reduces excess Kapha with light spices and coconut"
+Tofu Tikka Wrap,"Sweet, Salty, Pungent",Heating,Pungent,"Balances Pitta, cools Vata"
+Spinach Rice,"Sweet, Bitter",Cooling,Sweet,"Balances Vata and Pitta, mildly reduces Kapha"
+Biriyani with Rich Gravy,"Sweet, Spicy, Sour",Heating,Pungent,"Balances Kapha and Pitta, can aggravate Vata with heavy oils"
+Moong Dal Chilla,"Sweet, Astringent",Cooling,Sweet,"Balances Vata and Kapha, gentle on Pitta"
+Butter Chicken (Paneer variant),"Sweet, Salty, Sour",Heating,Sweet,Balances Kapha; increases Pitta if heavy cream used
+Tom Kha Gai (Tofu version),"Sweet, Sour, Salty",Cooling,Sour,"Balances Vata and Kapha, cools Pitta slightly"
+Mapo Tofu (vegan),"Pungent, Sour, Sweet",Heating,Pungent,"Balances Vata, stimulates Pitta with chili oil"
+Mujadara,"Sweet, Nutty",Cooling,Sweet,Balances Vata; calms Pitta; light on Kapha
+Quinoa Veg Bowl,"Sweet, Sour, Umami",Cooling,Sweet,Balances Vata and Kapha; supports Pitta stability
+Ratatouille,"Sweet, Sour, Bitter",Cooling,Sweet,Balances Vata and Kapha; pacifies Pitta with fresh herbs
+Makhani Dal Tadka,"Sweet, Bitter, Pungent",Heating,Pungent,Balances Kapha; can aggravate Pitta if heavily spicy
+Quinoa Kichdi,"Sweet, Astringent",Cooling,Sweet,Balances Vata and Kapha; gentle for Pitta
+Tomato Rasam,"Sour, Sweet, Salty",Heating,Sour,"Balances Pitta, reduces Kapha; stimulates Vata slightly"
+Seaweed Salad,"Salty, Sour",Cooling,Sour,Balances Vata; cools Pitta; light for Kapha
+Butter Chicken (vegetarian alternative),"Sweet, Spicy, Rich",Heating,Pungent,Increases Kapha and Pitta if overused; balances Vata with protein and fat
+Aloo Paratha with Cennu Chutney,"Sweet, Salty, Pungent",Heating,Sweet,"Balances Vata, Pacifies Kapha with warming effect"
+Paneer Tikka Masala,"Sweet, Pungent, Salty",Heating,Pungent,"Balances Kapha and Pitta, light on Vata"
+Rajma Stew,"Sweet, Salty, Bitter",Heating,Sweet,"Balances Vata, alleviates Kapha heaviness"
+Tawa Paneer,"Sweet, Salty, Pungent",Heating,Pungent,Balancess all three doshas with slight kapha rise
+Baati with Churma (Rajwadi style),"Sweet, Salty, Astringent",Heating,Sweet,"Balances Vata and Kapha, energizes Pitta mildly"
+Corn and Pea Pulao,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata, gentle Kapha pacifier in meals"
+Lentil Sprout Salad,"Sweet, Sour, Astringent",Cooling,Sour,"Balances Vata and Kapha, calms Pitta with sour note"
+Tofu Pepper Fry,"Pungent, Salty",Heating,Pungent,"Balances Kapha, stimulates Pitta, light on Vata"
+Bisi Bele Bath,"Sweet, Salty, Umami",Heating,Sweet,Balances Vata and Pitta; mildly increases Kapha
+Rajma Chawal with Jeera,"Sweet, Salty, Pungent",Heating,Sweet,Balances Vata; may increase Kapha if eaten in excess
+Miso Maple Glazed Eggplant,"Sweet, Umami, Salty",Heating,Sweet,Balances Pitta; cools Vata slightly
+Pakhala Bhata with Mango Pickle,"Sweet, Sour, Salty",Cooling,Sour,Balances Pitta; increases Kapha slightly
+Kombu Seaweed Sushi,"Salty, Umami, Sweet",Cooling,Sweet,Balances Kapha; stabilizes Vata
+Paneer Beetroot Tikki,"Sweet, Pungent, Astringent",Heating,Pungent,Balances Vata; mildly increases Kapha
+Masala Zucchini Pancakes,"Sweet, Spicy (pungent)",Heating,Pungent,Balances Kapha; reduces Vata
+Chana Masala with Brown Rice,"Sweet, Sour, Spicy",Heating,Sweet,Balances Pitta; balances Vata; may increase Kapha
+Coconut Lemongrass Soup,"Sweet, Sour, Salty",Cooling,Sour,Balances Vata; cools Pitta; grounds Kapha
+Sorghum Jowar Salad,"Sweet, Sour, Bitter",Cooling,Sweet,Balances Vata; reduces Kapha; stabilizes Pitta
+Baingan Bhartha,"Bitter, Sweet, Sour",Cooling,Sweet,"Pacifies Pitta, gently balances Kapha and Vata"
+Bhel Puri,"Sweet, Sour, Salty, Pungent",Cooling,Sweet,"Balances Vata and Kapha, light on Pitta"
+Sabudana Khichdi,"Sweet, Salty",Cooling,Sweet,"Nourishes Vata, light for Kapha, Maintains Pitta balance"
+Chole (Chickpea Curry),"Sweet, Pungent",Heating,Pungent,"Balances Kapha, Elevates Pitta with chili"
+Tadka Chawal (Rice with tempering),"Sweet, Salty, Pungent",Heating,Pungent,"Balances Vata, Increases Pitta with spices"
+Mango Rice,"Sweet, Sour",Cooling,Sweet,"Balances Vata and Pitta, Mildly increases Kapha"
+Palak Paneer with Coconut Cream,"Sweet, Salty, Astringent",Heating,Sweet,"Balances Vata and Pitta, Slightly increases Kapha"
+Aloo Paratha with Mint Yogurt Dip,"Salty, Sour, Pungent",Heating,Pungent,"Balances Vata, Increases Kapha if consumed in excess"
+Gobhi Masala with Kurkuri Toast,"Sweet, Pungent, Bitter",Heating,Pungent,"Balances Vata and Pitta, Neutral to Kapha"
+Vegetable Biryani with Saffron,"Sweet, Salty, Astringent",Heating,Sweet,Balances all doshas when eaten with moderate portions
+Rajma Chawal with Ginger pickle,"Sweet, Salty, Sour",Heating,Sour,"Balances Vata and Kapha, Pitta may be provoked with excess oil"
+Matar Paneer with Whole Wheat Roti,"Sweet, Salty, Astringent",Cooling,Sweet,"balances Vata and Kapha, stabilizes Pitta when properly portioned"
+Chana Masala with Jeera Rice,"Sweet, Sour, Spicy",Heating,Pungent,"Balances Kapha, stabilizes Vata, pacifies Pitta with yogurt accompaniment"
+Baingan Bharta with Whole Lentils,"Bitter, Sour, Sweet",Heating,Sour,"Reduces Vata, eases Pitta, modest Kapha support"
+Methi thepla with Yogurt,"Salty, Sour, Astringent",Cooling,Sweet,"Balances Vata and Kapha, supports Pitta in heat"
+Veg Burger (Paneer-based),"Salty, Sweet, Umami",Heating,Sweet,"Balancing Kapha, minor Vata stabilization; may mildly elevate Pitta with fried patty"
+Tofu Stir-Fry with Quinoa,"Sweet, Salty, Umami",Heating,Sweet,Balances Vata; cooling for Pitta with minimal oil
+Sweet Potato Chaat,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Vata and Kapha, pacifies Pitta when mild spices used"
+Mujadara (Lentils with Rice),Earthy/Savoury (Salty),Cooling,Sweet,Balances Vata and Kapha; grounding and strengthening
+Rajma with Jeera Rice,"Sweet, Salty, Pungent",Heating,Sweet,Balances Vata and Kapha; Pitta-friendly with moderate spice
+Kadhi with Rice,"Sour, Sweet, Astringent",Cooling,Sour,Balances Vata and Pitta; light on Kapha
+Rasgulla (Savory version),"Sweet, Salty",Cooling,Sweet,Balances Vata and Pitta; not ideal for heavy Kapha rise
+Sesame Veggie Sushi,"Savory, Sweet, Sour",Cooling,Sweet,Balances Vata and Kapha; gentle on Pitta with mild wasabi
+Lemon Quinoa Salad with Chickpeas,"Sour, Sweet, Salty",Cooling,Sour,Balances Vata and Pitta; very light for Kapha
+Methi Thepla (Fenugreek Flatbread),"Pungent, Sweet, Salty",Heating,Pungent,"Balances Vata, can aggravate Pitta with excess fenugreek"
+Akhrot Kebab (Walnut Kabob),"Nutty, Sweet",Cooling,Sweet,"Balances Vata and Pitta, nourishing for all doshas"
+Tofu Stir Fry with Veggies,"Savory, Sweet",Cooling,Sweet,"Balances Vata, Pitta; light for Kapha"
+Palak Paneer with Quinoa,"Sweet, Salty, Astringent",Heating,Sweet,"Balances Vata and Pitta, slightly increases Kapha"
+Aloo Paratha with Fenugreek,"Sweet, Salty, Pungent",Heating,Sweet,Balances Vata; may mildly increase Kapha if excess ghee used
+Gobhi Masala Stuffed Cauliflower,"Pungent, Sweet, Sour",Heating,Pungent,"Balances Vata and Kapha, pacifies Pitta when not over-spiced"
+Makhani Paneer Pasta,"Sweet, Salty, Fatty",Cooling,Sweet,Balances Pitta; can balance Kapha with moderate portion sizes
+Veg Biryani with Lentils,"Sweet, Sour, Pungent",Heating,Pungent,Balancing all three doshas with mindful oil use
+Paneer Tikka Wrap,"Sweet, Salty, Pungent",Heating,Pungent,"Balances Vata and Pitta, may increase Kapha if heavy cream used"
+Masala Dosa with Potato Filling,"Sour, Sweet, Pungent",Heating,Sour,Balances Vata; strengthens Pitta when dosed well
+Methi Thepla with Yogurt Dip,"Sweet, Salty, Astringent",Cooling,Sweet,"Balances Vata and Kapha, cools Pitta"
+Katsu Paneer Roll,"Sweet, Salty, Umami",Heating,Sweet,Balances all doshas with balanced oil and protein content
+Paneer Kimchi Fried Rice,"Salty, Sour, Pungent",Heating,Pungent,"Balances Vata and Kapha, stimulates digestion for Pitta"
+Sweet Corn Chutney Chapati,"Sweet, Astringent",Cooling,Sweet,Balances Vata and Pitta; light on Kapha if portion controlled
+Murgh Makhani-Inspired Veggie Curry,"Sweet, Sour, Rich",Heating,Sweet,Balances Vata; calms Pitta with rich tomatoes and ghee moderation
+Tamarind Lentil Soup (Mukkal Soup),"Sour, Sweet",Cooling,Sour,Pacifies Pitta; balances Vata with hearty lentils
+Beetroot and Goat Cheese Salad,"Sweet, Bitter, Astringent",Cooling,Sweet,Balances Kapha and Pitta; light for Vata
+Pumpkin Raita with Brown Rice,"Sweet, Salty, Astringent",Cooling,Sweet,Balances Pitta; supports Vata in cool climates
+Coconut Lime Rice with Tempeh,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Pitta; light on Kapha, supports Vata in cold weather"
+Spinach Chickpea Crepes,"Sweet, Salty, Bitter",Cooling,Sweet,Balances Vata and Kapha; energizes Pitta with non-spicy greens
+Vegetable Korma,"Sweet, Creamy, Nutty (Astringent)",Cooling,Sweet,"Calms Vata, supports Pitta when not overly spicy"
+Tofu Tikka Masala,"Sweet, Sour, Spicy (Pungent)",Heating,Pungent,Balances Vata and Kapha; can soothe Pitta with coconut milk
+Cabbage Sabzi,"Sweet, Sour, Pungent",Heating,Pungent,Stimulates Vata and Pitta; moderate Kapha balance when cooked with mindful oil
+Gujarati Thali,"Sweet, Sour, Salty",Heating,Sweet,Balances all three doshas with varied dish combinations
+African Jollof Rice,"Sweet, Spicy",Heating,Sweet,Balances all three doshas with varied spice levels
+Palak Paneer with a Twist,"Sweet, Salty, Astringent",Cooling,Sweet,"Balances Vata and Pitta, slight increase in Kapha when overused"
+Makhani Spaghetti,"Sweet, Salty, Umami",Cooling,Sweet,Balances all doshas when portioned; heavier on Kapha if cheese rich
+Quinoa and Lentil Kichdi,"Sweet, Astringent",Cooling,Sweet," balances Vata and Pitta, gentle for Kapha"
+Rajma Chawal with Mint,"Sweet, Sour, Salty",Heating,Sweet,Balances Vata and Pitta; reduces Kapha when not overcooked
+Tamarind-Glazed Tofu,"Sour, Sweet, Pungent",Heating,Sour,Energizes Agni; can increase Pitta if overused; light for Vata
+Chana Masala with Spinach,"Sweet, Salty, Sour",Heating,Pungent,Balances Vata; can aggravate Pitta with heavy spice
+Eggless Sattu Paratha,"Sweet, Salty, Astringent",Cooling,Sweet,"Soothing for Vata; light for Kapha, neutral for Pitta"
+Tomato Coconut Rice,"Sweet, Sour, Salty",Cooling,Sour,"Soothes Pitta in moderation; balances Kapha, cools Vata"
+Bhindi Fry with Peanuts,"Bitter, Pungent, Sweet",Heating,Pungent,"Heating to Agni; may reduce Kapha, can increase Vata if oil heavy"
+Coconut Paneer Curry,"Sweet, Salty, Sour",Cooling,Sweet,Balances all doshas when used in balanced amounts
+Sweet Potato and Spinach Sabzi,"Sweet, Bitter",Cooling,Sweet,Balances Vata; gentle on Pitta and Kapha
+Cabbage and Carrot Stir-Fry with Urad Dal,"Sweet, Astringent, Salty",Cooling,Sweet,"Calms Vata, supports Kapha; light for Pitta"
+Masala Paneer Sandwich,"Sweet, Salty, Pungent",Heating,Pungent,Stimulates Kapha and Pitta mildly; balances Vata
+Green Moong Dal Soup,"Sweet, Sour",Cooling,Sweet,Soothes Vata and Kapha; gentle for Pitta
+Mughlai Paneer,"Sweet, Salty, Pungent",Heating,Pungent,"Balances Pitta, increases Kapha with oil-rich preparation"
+Kathi Roll,"Sweet, Salty, Sour",Cooling,Sweet,Balances Vata; may increase Kapha if heavy on mayonnaise and oil
+Tandoori Chicken (Veg version),"Sweet, Pungent",Heating,Pungent,Balances Pitta and Vata; reduces Kapha when lean and well-spiced
+Samosa (Vegetarian),"Sweet, Salty, Pungent",Heating,Pungent,Stimulates digestion; can aggravate Pitta and Kapha if fried heavy
+Rajgira Chhol,"Sweet, Astringent",Cooling,Sweet,Balancing for Vata; gentle for Pitta and Kapha when prepared simply
+Saucy Tofu Stir-Fry,"Sweet, Sour, Salty",Heating,Sour,"Balances Vata and Kapha, moderate Pitta warmth"
+Curry Leaf Dal,"Sweet, Pungent",Heating,Sweet,Balances Vata; stimulates Pitta mildly with spices
+Tofu Stir-Fry,"Sweet, Sour, Salty",Heating,Sweet,Balances Vata and Kapha with mild Pitta rise
+Baahubali Pulao,"Sweet, Spicy, Sour",Heating,Sour,"Stabilizes Vata and Kapha, Pitta may rise mildly"
+Rogan Josh (veg version),"Sweet, Spicy, Umami",Heating,Pungent,Balances all doshas with Kapha caution
+Samosa (vegetarian),"Savoury, Spicy",Heating,Pungent,"Stimulates Vata, balances Kapha, may aggravate Pitta"
+Pulao with Lentils,"Sweet, Salty",Heating,Sweet,"Balances Vata, Pitta; slight Kapha increase"
+Mushroom Do Pyaza,"Sweet, Sour, Pungent",Heating,Pungent,"Balances Vata and Kapha, Slight Pitta increase"
+Corn Masala,"Sweet, Salty, Pungent",Heating,Sweet,Balances Vata; cools Pitta slightly
+Alo Gobi,"Pungent, Bitter",Heating,Pungent,Balances Vata; increases Kapha slightly
+Saag Aloo,"Sweet, Bitter",Cooling,Sweet,Balances Vata and Pitta; reduces Kapha
+Baingan Bharta with Peas,"Sweet, Pungent",Heating,Pungent,Balances Vata; increases Pitta slightly
+Matar Kofta,"Sweet, Sour",Heating,Sweet,Balances Vata; increases Kapha slightly
+Aloo Gobhi Paratha,"Sweet, Sour, Salty",Heating,Sweet,Balances Vata; increases Kapha slightly
+Idli with Sambar,"Sweet, Sour",Cooling,Sweet,Balances Vata and Pitta; mild Kapha rise
+Aloo Tamatar,"Sweet, Sour, Salty",Heating,Sweet,Balances Vata; increases Pitta slightly
+Baingan Bharta with Methi,"Bitter, Pungent",Heating,Pungent,Balances Vata; increases Pitta slightly
+Paneer Makhani,"Sweet, Rich",Cooling,Sweet,Balances Vata; reduces Kapha slightly
+Methi Chicken (vegetarian option),"Salty, Pungent",Heating,Pungent,Balances Vata; increases Pitta slightly
+Corn Chilli Fry,"Sweet, Salty, Pungent",Heating,Pungent,Balances Vata and Pitta; increases Kapha
+Butter Paneer,"Sweet, Salty, Sour",Heating,Sweet,"Balances Vata and Pitta, increases Kapha if heavy on ghee"
+Makhani Dal,"Sweet, Bitter",Heating,Sweet,"Balances Vata, mildly reduces Pitta"
+Tandoori Chicken Veg,"Pungent, Salty",Heating,Pungent,"Increases Pitta if overused, balances Kapha"
+Miso Soup with Veg,"Savory, Sweet",Cooling,Sweet,"Calms Vata and Kapha, supports Pitta balance"
+Mayo Veg Wrap,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, neutral for Pitta"
+Spiced Lentil Soup,"Sweet, Pungent",Heating,Pungent,"Balances Vata and Kapha, can raise Pitta with extra chili"
+Aromatic Rice Pilaf,"Sweet, Salty, Astringent",Cooling,Sweet,Balances all doshas in moderation
+Beetroot Hummus,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Vata and Kapha, light on Pitta"
+Eggplant Curry,"Bitter, Pungent",Heating,Pungent,"Balances Vata, may aggravate Kapha in excess"
+Coriander Chutney,"Sweet, Sour, Pungent",Cooling,Sweet,"Balancing for Vata and Pitta, Kapha neutral"
+Sweet Potato Fry,"Sweet, Salty",Cooling,Sweet,"Balances Vata; cools Kapha, neutral for Pitta"
+Moong Dal Tadka,"Sweet, Pungent",Heating,Pungent,"Balances Vata, reduces Kapha, may raise Pitta with heavy spices"
+Cauliflower Rice,"Sweet, Nutty",Cooling,Sweet,"Balances Vata and Kapha, light on Pitta"
+Tomato Dosa,"Sour, Sweet",Heating,Sweet,"Balances Vata, stimulates Pitta mildly"
+Roti with Dal,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, neutral for Pitta"
+Vegetable Samosa,"Spicy, Salty",Heating,Pungent,"Balances Vata, may aggravate Pitta in excess"
+Masala Chai,"Sweet, Spicy",Heating,Sweet,"Balances Kapha, stimulates Agni, can upset Pitta with overstimulation"
+Sarson Da Saag,"Bitter, Astringent, Sweet",Cooling,Sweet,"Balances Vata and Pitta, heavy Kapha support"
+Tamatar Saar (Tomato Soup),"Sweet, Sour",Cooling,Sour,"Balances Vata and Kapha, may reduce Pitta with light spices"
+Daal Fry,"Sweet, Warming, Nutty",Heating,Sweet,"Balances Vata, supports digestion and energy"
+Roti and Dal Tadka,"Sweet, Salty",Heating,Sweet,"Balances Vata and Pitta, slight Kapha increase with ghee"
+Kathi Roll (Paneer),"Sweet, Spicy",Heating,Sweet,"Balances Vata, can disturb Kapha with heavy fillings"
+Sundal (Coconut Chickpea),"Sweet, Sour, Nutty",Cooling,Sweet,"Balances Vata and Pitta, nourishes Kapha with proper portions"
+Butter Chicken,"Sweet, Salty, Sour",Heating,Sweet,"Increases Pitta, balances Vata"
+Egg Curry,"Salty, Pungent",Heating,Pungent,"Increases Pitta, balances Kapha"
+Gobi Masala,"Salty, Spicy (Pungent)",Heating,Pungent,"Increases Pitta, balances Vata"
+Quinoa Salad with Chickpeas,"Sweet, Astringent, Sour",Cooling,Sour,"Balances Vata, reduces Kapha slightly"
+Tandoori Fish,"Salty, Pungent, Sour",Heating,Pungent,"Raises Pitta, balances Vata slightly"
+Paneer Bhurji,"Sweet, Salty, Umami",Heating,Sweet,"Balances Vata and Kapha, neutral for Pitta"
+Veggie Burger,"Salty, Sweet, Umami",Cooling,Sweet,"Balances all doshas, slight Vata pacification"
+Garlic Naan,"Salty, Pungent",Heating,Pungent,"Increases Pitta, energizes Vata"
+Rasam (Tamil Tomato Sambar),"Sour, Pungent",Heating,Sour,"Balances Kapha, reduces Vata in excess"
+Butter Chicken (Chicken Makhani),"Sweet, Salty, Umami",Heating,Sweet,"Increases Pitta, balances Kapha, moderate Vata support"
+Aubergine Bharta,"Sweet, Sour, Pungent",Heating,Pungent,"Balances Vata, reduces Kapha in some individuals"
+Spicy Prawn Fry,"Pungent, Salty",Heating,Pungent,"Increases Pitta, balances Kapha, elevates Vata constraints"
+Falafel Wrap,"Sweet, Salty, Sour",Cooling,Sweet,"Balances all doshas, reduces Kapha overload"
+Ratatouille with Paneer,"Sweet, Sour, Umami",Cooling,Sweet,"Balances all three doshas, gentle on digestion"
+Pesto Pasta with Spinach,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata and Pitta, mildly pacifies Kapha with moderate portion size"
+Quinoa Veggie Bowl,"Sweet, Astringent",Cooling,Sweet,"Balances all doshas, supports digestion and energy stability"
+Grilled Tofu with Veggies,"Sweet, Salty, Astringent",Cooling,Sweet,"Balances Vata and Kapha, supports Pitta in moderation"
+Pani Puri,"Sweet, Sour, Salty",Cooling,Sour,"Increases Pitta, Balances Kapha when eaten in moderation"
+Goan Fish Curry,"Sour, Salty, Pungent",Heating,Pungent,"Balances Pitta, Increases Vata when spicy"
+Rogan Josh,"Pungent, Sweet, Salty",Heating,Pungent,"Balances Kapha, Increases Vata with heat"
+Tom Yum Soup (Vegetarian variant),"Sour, Salty, Umami",Heating,Sour,"Balances Kapha, Increases Pitta with chilies"
+Tandoori Chicken,"Spicy, Sour",Heating,Pungent,"Balances Kapha, Reduces Vata when not overcooked"
+Agnipurti Coriander Rice,"Herbaceous, Nutty",Cooling,Sweet,"Balances Vata, Pacifies Pitta"
+Margherita Pizza,"Sweet, Salty",Cooling,Sweet,Balancing all three doshas in moderation
+Spaghetti Aglio e Olio,"Pungent, Salty, Oily",Heating,Pungent,"Increases Pitta, balances Kapha with light portions"
+Ghee Rice,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, nourishes all-dosha constitution"
+Rogan Josh (Lamb),"Sweet, Pungent, Bitter",Heating,Pungent,"Increases Pitta, balances Vata, can aggravate Kapha in heavy preparations"
+Aloo Gobhi,"Sweet, Sour, Astringent",Heating,Sweet,"Balances Vata, reduces Kapha, may elevate Pitta with spices"
+Makhani (Butter) Paneer,"Sweet, Rich, Salty",Cooling,Sweet,"Nourishes all doshas, particularly balances Vata; can increase Kapha if overused"
+Samosa,"Sweet, Salty, Pungent",Heating,Pungent,"Elevates Kapha when fried, stimulates Vata and Pitta; caution for sensitive hearts"
+Quinoa Salad with Veggies,"Sweet, Sour, Astringent",Cooling,Sweet,"Balances all three doshas, especially Vata and Kapha"
+Uttapam,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata, gentle for Pitta, neutral to Kapha"
+Butter Chicken (Murgh Makhani),"Sweet, Salty, Sour",Heating,Sweet,Balances Vata and Pitta; may increase Kapha due to cream
+Fish Curry,"Pungent, Sour, Salty",Heating,Pungent,Can increase Pitta if not balanced; supports Vata in lean fish versions
+Spinach Dal,"Sweet, Bitter, Salty",Cooling,Sweet,Balances Vata and Pitta; light on Kapha
+Dal Fry,"Sweet, Pungent",Cooling,Sweet,"Balances Vata and Pitta, pacifies Kapha"
+Biriyani with vegetables,"Sweet, Spicy, Astringent",Heating,Sweet,"Balances Vata, increases Kapha if overdone"
+Rasam Pepper Rasam,"Pungent, Sour",Cooling,Sour,"Balances Vata, pacifies Kapha while stimulating Pitta"
+Paneer Butter Masala,"Sweet, Salty, Rich",Heating,Sweet,Balances Pitta; pacifies Vata when not overly oily; may slightly elevate Kapha
+Shakshuka,"Sweet, Sour, Salty",Heating,Sweet,"Balances Vata and Pitta; if oily, can increase Kapha"
+Pulao with Peas,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, slightly pacifies Pitta when mildly seasoned"
+Navratan Korma,"Sweet, Salty, Sour",Cooling,Sweet,"Gentle balancing for all three doshas, favors Kapha stability"
+Rasgulla,Sweet,Cooling,Sweet,"Balances Vata and Kapha, pacifies Pitta with moderate sugar content"
+Butter Naan,"Sweet, Salty",Heating,Sweet,"Increases Kapha if overused, supports Vata with warm serving"
+Pesto Pasta (Veg),"Sweet, Salty, Umami",Cooling,Sweet,Balances all doshas when paired with vegetables and olive oil
+Rasam (Tomato Soup with Spice),"Sour, Pungent",Heating,Sour,"Balances Pitta, can aggravate Kapha if overly sour"
+Pulao with Veggies,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, light on Pitta"
+Makhani Pasta,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata, gentle on Kapha, can mildly increase Pitta with red sauce"
+Tomato Basil Soup with Cheese Toast,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Vata and Kapha, may increase Pitta with excess cheese"
+Ubaliobike Varnam (South Indian Dal),"Sweet, Bitter, Astringent",Heating,Sweet,"Balances Vata, pacifies Kapha when legumes are properly cooked"
+Chole,"Sweet, Sour, Pungent",Heating,Pungent,"Balances Kapha, energizes Vata, can irritate Pitta with heavy spices"
+Rajgira Chilla,"Sweet, Astringent",Cooling,Sweet,"Balances Vata, gentle on Pitta, light for Kapha"
+Malai Kofta,"Sweet, Salty, Rich",Cooling,Sweet,Increases Kapha if consumed in excess; balances Vata with dairy richness
+Tandoori Chicken (vegetarian version),"Spicy, Smoky",Heating,Pungent,"Balances Vata and Kapha; boosts metabolism, can increase Pitta with heat and spice"
+Butter Chicken (vegetarian)**,"Sweet, Umami, Salty",Heating,Sweet,Increases Kapha if rich; balances Vata with protein; may elevate Pitta with butter
+Gulab Jamun (dessert),Sweet,Cooling,Sweet,Balances Kapha with moderation; can vitiate Kapha if eaten in excess; Vata balanced by syrup
+Ratatouille with Dal,"Sweet, Sour, Salty",Cooling,Sweet,Balances all three doshas with fiber and legumes; reduces excessive Kapha
+Quinoa Pulao with Vegetables,"Sweet, Salty",Cooling,Sweet,Balances Vata and Pitta; Kapha neutral if portions are moderate
+Margarita Pizza,"Salty, Umami, Sweet",Cooling,Sweet,Balances all doshas with slight Kapha lift
+Soba Noodle Salad,"Salty, Sour, Umami",Cooling,Sour,"Pacifies Vata, Balances Kapha"
+Quinoa Chili,"Spicy, Sweet, Sour",Heating,Sour,"Balances Vata, Increases Kapha"
+Eggplant Parmesan,"Sweet, Bitter, Umami",Cooling,Sweet,"Balances Vata, Pitta; Reduces Kapha slightly"
+Pasta Arrabbiata,"Pungent, Sour",Heating,Pungent,"Increases Pitta, reduces Kapha relief when oily"
+Chole Bathure,"Sweet, Salty, Sour",Heating,Sweet,"Increases Kapha, balances Vata"
+Samosa (Vegetable),"Salty, Pungent",Heating,Pungent,"Increases Kapha, may aggravate Pitta when deep-fried"
+Quinoa Stir-fry,"Sweet, Salty",Cooling,Sweet,"Balances all doshas, with emphasis on Vata and Kapha"
+Tandoori Salmon,"Salty, Pungent",Heating,Pungent,"Balances Kapha, reduces Vata imbalance, can mildly pittan fire up if chili heavy"
+Mung Bean Khichdi,"Sweet, Astringent",Cooling,Sweet,"Balances Vata and Pitta, gentle on Kapha"
+Quinoa Vegetable Stir-fry,"Sweet, Sour, Umami",Heating,Sweet,"Balances Vata, supports Pitta regulation, neutral for Kapha"
+Paneer Frankie,"Sweet, Salty, Spicy",Heating,Pungent,"Stimulates Agni, increases Kapha in larger portions"
+Vegetable Sambar,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Vata and Kapha, mildly pacifies Pitta"
+Chicken Biryani,"Sweet, Spicy",Heating,Sweet,"Increases Kapha and Pitta, balances Vata with careful portions"
+Gobi Aloo,"Sweet, Sour, Astringent",Heating,Sweet,"Balances Vata, mildly increases Kapha when heavy with oil"
+Quinoa Salad with Yogurt Dressing,"Sweet, Sour, Astringent",Cooling,Sweet,"Balances all three doshas, especially Vata and Pitta when light on dressing"
+Caprese Pasta,"Sweet, Sour, Umami",Cooling,Sweet,Balances all doshas when used with olive oil and fresh basil
+Vegetable Stir-Fry with Tofu,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata and Kapha, calms Pitta with light seasoning"
+Seaweed Sushi,"Salty, Sour",Cooling,Sour,"Balances Kapha and Pitta, reduces Vata when accompanied by fresh vegetables"
+Butter Paneer Pasta,"Sweet, Rich, Salty",Heating,Sweet,Balances Pitta and Kapha; Vata may be slightly increased with heavy cream
+Masoor Dal Soup,"Sweet, Sour",Cooling,Sweet,Balances all three doshas when spiced moderately
+Rajma Salad,"Sweet, Astringent",Cooling,Sweet,"Balances Vata and Kapha, light for Pitta"
+Vegetable Stir-fry with Tofu,"Sweet, Salty, Pungent",Cooling,Sweet,Balances all three doshas when cooked with light oil
+Rajgira Chapati with Spinach,"Sweet, Astringent",Cooling,Sweet,"Balances Vata and Pitta, light for Kapha"
+Mediterranean Quinoa Salad,"Sweet, Sour, Astringent",Cooling,Sweet,Balances all doshas
+Schezwan Noodles,"Pungent, Salty",Heating,Pungent,"Increases Kapha, Increases Pitta"
+Biryani (Vegetarian),"Sweet, Spicy",Heating,Sweet,Balances all doshas with mild Kapha rise
+Dal Takhni,"Sweet, Sour",Heating,Sweet,"Balances Vata, Increases Pitta"
+Prawn Curry,"Salty, Sour, Pungent",Heating,Pungent,"Increases Pitta, Balances Vata"
+Sambar with Rice,"Sour, Sweet",Cooling,Sweet,"Balances Vata and Kapha, light for Pitta if not overseasoned"
+Ratatouille (Indianized),"Sweet, Sour, Bitter",Cooling,Sweet,"Balances Vata and Pitta, light on Kapha"
+Pasta Arrabiata,"Pungent, Sour",Heating,Pungent,Elevates Pitta if spicy; may aggravate Vata in fasting conditions
+Lentil Soup (Dal),"Sweet, Astringent",Cooling,Sweet,Supports all doshas with emphasis on Vata and Kapha; soothing to digestion
+Roti with Butter,"Sweet, Salty",Heating,Sweet,"Increases Kapha, increases Pitta with excess butter; stabilizes Vata when moderate"
+Mutton Seekh Kebab,"Pungent, Sour",Heating,Pungent,"Stimulates Agni; increases Vata and Kapha tendencies, may raise Pitta with heat"
+Chili Paneer,"Sweet, Pungent, Salty",Heating,Pungent,"Energizes Kapha and Pitta, stabilizes Vata when served with greens"
+Tom Yum Soup (Vegetarian),"Sour, Salty, Umami",Heating,Sour,"Reduces Kapha, balances Vata, mildly increases Pitta due to spice"
+Quinoa and Roasted Vegetable Bowl,"Sweet, Astringent, Sour",Cooling,Sweet,Balances Vata; pacifies Kapha with olive oil; maintains Pitta stability
+Tandoori Salmon (or Paneer),"Salty, Spicy, Sour",Heating,Pungent,Balancing for Vata and Kapha; can aggravate Pitta with excess spice
+Rajma (Kidney Bean Curry),"Sweet, Salty, Pungent",Heating,Sweet,"Balances all three doshas in moderate amounts, with fiber support"
+Eggplant Bharta,"Bitter, Sour, Sweet",Cooling,Sweet,Balances Vata; mild Kapha pacification; neutral for Pitta
+Cauliflower Tikka Masala,"Sweet, Pungent, Sour",Heating,Pungent,Balancing for Vata and Kapha; can increase Pitta with heavy chilies
+Mango Chutney,"Sweet, Sour",Cooling,Sweet,Balances Vata and Kapha; mildly reduces Pitta with controlled sugar
+Butter Chicken (Rajcuisine),"Sweet, Salty, Umami",Heating,Sweet,"Balances Pitta, Increases Kapha slightly"
+Sushi Roll (Veg),"Salty, Umami",Cooling,Sweet,"Balances Vata, pacifies Kapha, gentle on Pitta"
+Pav Bhaji,"Sweet, Salty, Spicy",Heating,Pungent,"Balances Kapha, stimulates Agni, may aggravate Pitta with extra spice"
+Ratatouille with Basil,"Sweet, Sour, Umami",Cooling,Sweet,"Balances Vata and Kapha, calms Pitta"
+Masala Chai with Ginger,"Sweet, Spicy, Astringent",Heating,Pungent,"Balances Kapha, stimulates Vata, warms Pitta"
+Tom Yum Soup (Indianized),"Sour, Salty, Pungent",Heating,Pungent,"Balances Vata and Kapha, cools Pitta slightly"
+Chicken Tikka Masala,"Sweet, Sour, Spicy",Heating,Pungent,"Balances Pitta, elevates Kapha"
+Sautéed Tofu with Veggies,"Sweet, Salty, Bitter",Cooling,Sweet,"Balances Vata and Kapha, slightly increases Pitta"
+Moussaka (Indian version),"Sweet, Sour, Mildly Bitter",Cooling,Sweet,"Balances Vata, reduces Kapha, harmonizes all doshas"
+Gobi Reeded Curry,"Sweet, Sour, Spicy",Heating,Pungent,"Increases Kapha, balances Vata"
+Sambar,"Sweet, Sour, Spicy",Heating,Pungent,"Balances Kapha, supports Vata balance"
+Ratatouille with Lentils,"Sweet, Sour",Cooling,Sweet,"Balances Vata and Kapha, neutral for Pitta"
+Mutton Rogan Josh,"Pungent, Sweet",Heating,Pungent,"Increases Pitta, balances Kapha"
+Tomato Soup,"Sour, Sweet",Cooling,Sour,"Balances Pitta, cleanses Vata"
+Creamy Tomato Pasta,"Sweet, Sour, Umami",Cooling,Sweet,"Balances Vata, Pitta"
+Aubergine Ratatouille with Indian Spices,"Sweet, Sour, Astringent",Cooling,Sweet,Balances all doshas
+Lentil Soup with Turmeric,"Sweet, Bitter, Astringent",Heating,Sweet,"Balances Vata, Pitta, Kapha"
+Egg Fried Rice,"Salty, Sour",Heating,Sour,"Balances Kapha, May elevate Pitta"
+Sweety Corn Soup,"Sweet, Sour",Cooling,Sweet,"Balances Vata, Mild Kapha pacification"
+Butter Paneer Naan,"Sweet, Salty",Heating,Sweet,"Balances Vata, enhances Kapha when eaten with ghee"
+Quinoa Tabbouleh,"Sweet, Sour, Salty",Cooling,Sour,"Balances Vata and Pitta, neutral for Kapha"
+Lentil Dahl,"Sweet, Astringent, Pungent",Heating,Pungent,"Energizes Kapha, stabilizes Vata with tempered spices"
+Spaghetti Marinara,"Sweet, Sour, Salty",Cooling,Sweet,"Balanced for all doshas, with olive oil helps Vata and Pitta"
+Tomato Basil Soup with Garlic Croutons,"Sour, Pungent, Salty",Cooling,Sour,"Balances Vata and Pitta, Varies with fat content for Kapha"
+Paneer Tawa Masala,"Sweet, Pungent",Heating,Pungent,"Balances Vata and Kapha, Increases Pitta slightly"
+Maida Puri,"Sweet, Salty, Fried",Heating,Sweet,Increases Kapha; Balances Vata in small portions; raises Pitta with oily fats
+Fish Curry (Meen Kari)|,"Sour, Pungent",Heating,Pungent,Balances Pitta; Vata stable; Kapha may rise with coconut oil
+Mediterranean Lentil Soup,"Sweet, Sour",Cooling,Sweet,Balances Vata and Kapha; Supports Pitta with moderate spices
+Rava Idli,"Sweet, Mild",Cooling,Sweet,"Calms Vata, light for Kapha, gentle for Pitta"
+Jeera Rice with Cumin,"Sweet, Pungent, Astringent",Cooling,Sour,"Calms Vata, Supports Pitta balance, slight Kapha uplift"
+Mughlai Chicken,"Sweet, Salty, Rich",Heating,Sweet,"Balances all three doshas with heavy, warming profile"
+Samosa (Potato),"Salty, Spicy, Sour",Heating,Pungent,"Increases Kapha, reduces Vata when paired with cooling chutney"
+Roti with Sabzi,"Sweet, Salty, Astringent",Cooling,Sweet,"Balances all three doshas, especially Vata and Kapha"
+Vegetable Sushi,"Sweet, Sour, Umami",Cooling,Sweet,"Balances Vata, Mild Kapha support"
+Masoor Dal Khichdi,"Sweet, Salty",Cooling,Sweet,"Gentle for Vata, balances Pitta, light on Kapha"
+Tom Yum Soup (Indian-style),"Sour, Salty, Spicy",Heating,Pungent,"Balances Kapha and Pitta, can increase Vata if very spicy"
+Masala Dosa with Sambar,"Sour, Spicy, Salty",Heating,Pungent,"Balances Vata and Kapha if moderate oil, stimulates Pitta with heavy spices"
+Spaghetti Aglio e Olio (Vegetarian variant),"Salty, Pungent",Cooling,Pungent,"Vata stimulation limited, balances Kapha, supports Pitta with olive oil"
+Masoor Dal Curry,"Sweet, Sour",Cooling,Sweet,Balances Vata and Pitta
+Aubergine Parmigiana,"Bitter, Sweet",Cooling,Sweet,Balances Vata and Kapha
+Spiced Chickpea Bowl,"Sweet, Pungent",Heating,Pungent,"Balances Kapha, Pacifies Pitta"
+Tomato Basil Bruschetta,"Sweet, Sour",Cooling,Sour,"Balances Pitta, Vata"
+Bircher Muesli with Yogurt,"Sweet, Sour",Cooling,Sweet,Balances Vata and Pitta
+Rasam (South Indian Tomato Soup),"Sour, Pungent",Heating,Sour,"Balances Kapha, pacifies Vata"
+Daala Chutney,"Pungent, Astringent",Heating,Pungent,"Pitta-leaning, energizes Kapha; light on Vata."
+Green Gram Curry (Cherupayar)**,"Sweet, Pungent",Cooling,Sweet,Balances Vata and Kapha; light on Pitta.
+Cauliflower Pepper Fry,"Pungent, Salty",Heating,Pungent,"Stimulates Kapha, balances Vata; Pitta caution with peppers."
+Gujarati Undhiyu,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Kapha, calms Vata when not oily"
+Biryani with Vegetables,"Sweet, Salty, Astringent",Heating,Sweet,"Balances Vata and Kapha when moderate oil; Pitta may rise with heavy spices, saffron helps"
+Spicy Paneer Wrap,"Sweet, Pungent, Salty",Heating,Pungent,"Increases Kapha, agitates Pitta if very spicy"
+Pulao,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, slightly elevates Pitta with rich ghee"
+Rajgira Khichdi,"Salty, Sweet",Cooling,Sweet,"Balancing, gentle for Vata and Kapha during monsoon"
+Gobi Manchurian,"Sweet, Sour, Spicy",Heating,Pungent,"Increases Kapha, stimulates Pitta with heat"
+Rajgira Pancakes,"Sweet, Astringent",Cooling,Sweet,"Balances Vata and Pitta, gentle Kapha release"
+Quinoa Salad with Roasted Vegetables,"Sweet, Sour",Cooling,Sweet,"Balances Vata and Kapha, light and energizing"
+Caprese Salad with Paneer,"Sweet, Sour, Umami",Cooling,Sweet,"Balances Vata and Pitta, gentle on Kapha"
+Gnocchi with Sage Butter,"Sweet, Umami, Salty",Cooling,Sweet,"Balances Vata and Kapha, mild effect on Pitta"
+Rajbandar Halwa,"Sweet, Rich",Cooling,Sweet,"Balances Vata, increases Kapha when consumed in excess"
+Paneer Paratha,"Sweet, Salty, Mild Spicy",Heating,Sweet,"Balances Vata, increases Kapha"
+Makai Roti with Saag,"Earthy, Bitter, Sweet",Cooling,Sweet,"Balances Vata and Kapha, supports digestion"
+Chole Chole,"Pungent, Bitter",Heating,Pungent,Balances Kapha; may stimulate Vata if spices are excessive.
+Rajgira Pulao,"Astringent, Sweet",Cooling,Sweet,Balances Vata and Pitta; light for Kapha.
+Rasam (South Indian),"Sour, Salty",Heating,Sour,"Balances Kapha, stimulates Vata and Pitta slightly depending on tamarind content"
+Quinoa Veg Stir-Fry,"Sweet, Umami (savory)",Cooling,Sweet,Balances all three doshas when cooked with minimal oil
+Jackfruit Biryani,"Sweet, Pungent",Heating,Sweet,"Balances Vata, can increase Kapha if heavy on ghee; Pitta moderated with acidity management"
+Cauliflower Rice Pilaf,"Salty, Nutty (umami)",Cooling,Sweet,"Balances Vata and Kapha, cools Pitta through lower oil content"
+Gulab Jamun,"Sweet, Astringent",Heating,Sweet,"Increases Kapha, balances Vata with moderate use"
+Rajgira Poori,"Salty, Slightly Sweet",Heating,Sweet,"Balances Kapha, can mildly aggravate Vata when undernourished"
+Stir-Fried Tofu with Vegetables,"Pungent, Salty",Heating,Pungent,"Balances Kapha, calms Vata when cooked with sesame oil"
+Butter Paneer Naan Pizza,"Sweet, Salty, Umami",Heating,Sweet,Balances all doshas with moderate consumption
+Tomato Bathuary,"Sour, Sweet",Cooling,Sour,"Pacifies Vata, balances Pitta, mild Kapha increase"
+Daikon Salad with Sesame,"Astringent, Salty",Cooling,Pungent,"Balances Vata and Kapha, reduces Pitta slighty"
+Saffron Rice,"Sweet, Astringent",Cooling,Sweet,"Balances all three doshas, especially Vata and Pitta"
+Rasam (Tamil Tamarind Soup),"Sour, Spicy",Heating,Sour,"Balances Pitta, lightens Kapha, may increase Vata if consumed cold"
+Caprese Salad,"Sweet, Sour",Cooling,Sweet,Balances Vata and Kapha; cools Pitta when not spiced heavily
+Sushi Platter,"Umami, Sour, Sweet",Cooling,Sweet,Balances Kapha; pacifies Pitta in moderation; Vata neutral
+Tom Yum Soup,"Sour, Salty, Pungent",Heating,Pungent,Balances Kapha and Pitta; Vata may be dry if spicy; use coconut for balance
+Green Curry with Tofu,"Sweet, Salty, Sour",Cooling,Sweet,Balances Vata and Kapha; mild to Pitta with coconut milk
+Quinoa Veg Bowl with Tahini,"Sweet, Nutty",Cooling,Sweet,"Balances Vata and Kapha, light for Pitta"
+Tomato Pasta,"Sweet, Sour",Cooling,Sour,"Balances Pitta, Mildly increases Vata"
+Spicy Green Curry,"Pungent, Sweet",Heating,Pungent,"Increases Pitta, Balances Kapha"
+Aubergine Curry,"Bitter, Sweet, Sour",Cooling,Sweet,Balances Vata; supports Kapha control; slight Pitta elevation without heat
+Idli with Coconut Chutney,"Sweet, Sour, Salty",Cooling,Sweet,Balances Vata and Kapha; light for Pitta
+Quinoa Stir-fry with Vegetables,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata and Kapha, soothing for Pitta"
+Shakshuka with Indian spices,"Sweet, Salty, Pungent",Heating,Pungent,Balances Kapha and Pitta; Vata supported by eggs
+Quinoa Kitchari,"Sweet, Astringent",Heating,Sweet,"Balances Vata and Kapha, supports digestion; Pitta neutral to cooling in this preparation"
+Makkai ki Roti with Sarson saag,"Bitter, Astringent, Sweet",Cooling,Sweet,"Balances Vata and Kapha, calming for digestion; Pitta neutral"
+Green Gram Sprout Salad,"Sweet, Astringent",Cooling,Sweet,"Balances all doshas; light, digestive and refreshing"
+Makai Roti with Sabzi,"Sweet, Salty",Cooling,Sweet,Balances Vata and Kapha; light on Pitta
+Ragi Mudde with Saru,"Sweet, Salty",Cooling,Sweet,Grounding for Vata; supports Kapha with whole grain; Pitta neutral
+Quinoa Sushi,"Sweet, Umami, Sour",Cooling,Sour,Balances Vata and Pitta; light for Kapha
+Cauliflower Wings,"Salty, Umami, Sweet",Cooling,Sweet,"Balances Vata and Kapha, Neutral for Pitta"
+Paneer00 Sizzler,"Sweet, Salty, Pungent",Heating,Pungent,"Increases Kapha, Balances Pitta, Vata mildly reduced"
+Quinoa Salad with Kale,"Bitter, Astringent, Sweet",Cooling,Sweet,Balances all doshas with emphasis on Kapha
+Mango Smoothie,"Sweet, Sour",Cooling,Sweet,"Balances Vata and Pitta, Reduces Kapha"
+Grilled Salmon with Lemon,"Sour, Salty, Umami",Cooling,Sour,Balances Pitta; reduces Kapha when paired with greens
+Paneer Wrap,"Sweet, Salty, Astringent",Heating,Sweet,Balanc es Vata; mildly increases Kapha
+Lentil Curry (Dal Tadka),"Sweet, Pungent, Astringent",Heating,Pungent,"Balances Vata and Kapha, reduces Pitta slightly"
+Aubergine Stir-Fry,"Sweet, Salty, Astringent",Cooling,Sweet,Balances Vata and Kapha; soothes Pitta
+Butter Paneer Naan Roll,"Sweet, Salty, Pungent",Heating,Pungent,Balances Vata; increases Kapha; manages Pitta with dairy
+Paneer Cheese Sandwich,"Sweet, Salty",Heating,Sweet,Balanced for all doshas when made with whole grains and minimal oil
+Fruit Custard,Sweet,Cooling,Sweet,Calms Vata and Kapha; mildly increases Pitta if overly sweet
+Chilli Paneer,"Pungent, Sweet",Heating,Pungent,Increases Pitta with spiciness; balances Kapha with moderate heat; varies with oil content
+Rajma with Rice,"Sweet, Salty",Cooling,Sweet,Balances all doshas when portioned well
+Cauliflower Rice Stir-Fry,"Salty, Umami",Cooling,Sweet,"Balances Vata and Kapha, light for Pitta"
+Quinoa pulao with vegetables,"Sweet, Astringent",Cooling,Sweet,Balances all three doshas with diverse veg mix
+Sambhar (Tamil Lentil Stew),"Sweet, Sour, Salty",Heating,Sour,"Balances Vata and Pitta, Slight Kapha boost"
+Ratatouille with Rice,"Sweet, Sour, Astringent",Cooling,Sweet,"Balances Vata and Kapha, Pitta mildly affected"
+Quinoa Salad with Roasted Veg,"Sweet, Sour",Cooling,Sweet,Balances all doshas with slight Vata relief
+Cauliflower Curry,"Pungent, Sweet",Heating,Pungent,"Balances Vata, Mild Kapha rise"
+Veg Curry,"Sweet, Sour, Pungent",Heating,Sweet,"Balances Vata, Pitta while slightly increasing Kapha"
+Dolma,"Sweet, Sour",Heating,Sweet,"Balances Pitta; stimulates Kapha reduction, Vata calming"
+Ratatouille with Naan,"Sweet, Sour, Umami",Cooling,Sweet,"Balances Kapha, calms Pitta, light for Vata"
+Tadka Paneer Wrap,"Sweet, Salty, Spicy",Heating,Pungent,"Increases Pitta during spicy meals, balances Kapha with protein"
+Green Thai Curry,"Sweet, Sour, Spicy",Heating,Pungent,"Increases Kapha, stimulates Pitta less when coconut milk moderates heat"
+Spiced Chickpea Salad,"Sweet, Sour, Pungent",Cooling,Pungent,"Balances Vata, light for Kapha, may elevate Pitta with citrus zest"
+Makhani Chole,"Sweet, Spicy, Sour",Heating,Pungent,"Increases Pitta, balances Kapha when eaten in moderation, may disturb Vata if oily"
+Grilled Fish with Lemon,"Sour, Salty, Umami",Cooling,Sour,"Pacifies Vata and Pitta, reduces Kapha when not heavy in oil"
+Rajgira Missi Roti,"Sweet, Astringent",Cooling,Sweet,"Balances Vata, Pacifies Kapha"
+Gatte ki Sabzi,"Salty, Sour, Pungent",Heating,Pungent,"Balances Vata with warmth, may increase Pitta"
+Butter Chicken with Naan,"Sweet, Salty, Pungent",Heating,Sweet,"Balances Pitta, may mildly increase Kapha with rich dairy"
+Veggie Stir-Fry with Tofu,"Sweet, Salty, Bitter",Cooling,Sweet,Balances all three doshas with moderate oil use
+Makhani Paneer Pizza,"Sweet, Salty, Umami",Heating,Sweet,"Balances Vata, increases Kapha slightly due to cheese and ghee"
+Samosa (potato),"Sweet, Salty, Fatty",Heating,Pungent,"Increases Pitta, balances Kapha with fiber-rich chutney"
+Dal Tathkaal (Three Lentils),"Sweet, Sour, Spicy",Heating,Pungent,"Balances Vata, increases Kapha with ghee-rich serving"
+Avial (Mixed Vegetables),"Sweet, Bitter, Astringent",Cooling,Sweet,"Balances Vata and Pitta, light for Kapha reduction"
+Quinoa Veggie Burger,"Sweet, Salty, Umami",Cooling,Sweet,Balances all three doshas with balanced toppings
+Red Lentil Dal,"Sweet, Pungent",Heating,Pungent,"Balances Kapha, Stimulates Vata"
+Garlic Naan with Curry,"Pungent, Salty, Sweet",Heating,Pungent,"Increases Pitta, Balances Vata"
+Makhani Pasta with Spinach,"Sweet, Umami, Salty",Cooling,Sweet,"Balances Vata and Kapha, Supports Pitta stability"
+Lasagna Primavera,"Sweet, Sour, Umami",Cooling,Sweet,"Balances all doshas, especially Vata"
+Ratatouille with Mochi,"Sweet, Bitter, Sour",Cooling,Sweet,"Balances Vata and Kapha, neutral for Pitta"
+Lentil Soup with Carrots,"Sweet, Sour",Cooling,Sweet,"Balances Vata, reduces Kapha slightly"
+Caprese Salad with Burrata,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, neutral for Pitta"
+Moussaka,"Sweet, Sour",Cooling,Sweet,"Balances Vata and Kapha, neutral for Pitta"
+Sushi (Salmon Nigiri),"Savory, Sweet",Cooling,Sweet,"Balances Vata and Kapha, light on Pitta"
+Quinoa Salad with Lemon,"Sour, Sweet",Cooling,Sour,"Balances all doshas, particularly Vata and Kapha when light on oil"
+Grilled Salmon with Herb Rice,"Salty, Umami, Sour",Cooling,Sour,"Balances Pitta, Slightly increases Kapha"
+Quinoa with Stir-Fried Veg,"Sweet, Astringent, Salty",Cooling,Sweet,"Balances Vata and Kapha, Pitta neutral"
+Tofu Stir-Fry with Bok Choy,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Vata and Kapha, neutral for Pitta"
+Butter Chicken (Paneer version),"Sweet, Sour, Pungent",Heating,Sweet,"Increases Pitta, balances Vata, may increase Kapha with dairy richness"
+Mujadra,"Savory, Sour",Cooling,Sour,"Balances all doshas, particularly Vata and Kapha when prepared with olive oil"
+Tandoori Chicken (Paneer Tikka variant),"Pungent, Sweet",Heating,Pungent,"Increases Pitta, balances Vata with yogurt-based marinade"
+Raita,"Sweet, Salty, Astringent",Cooling,Sweet,"Balances Pitta, calms Vata, lowers Kapha when used as palate cleanser"
+Rasam (South Indian Tamarind Soup),"Sour, Spicy",Cooling,Sour,Balances Vata and Pitta; may reduce Kapha in excess
+Sushi Veg Roll,"Sweet, Umami, Sour",Cooling,Sweet,"Balances Kapha; light on Vata, neutral for Pitta"
+Caprese Salad with Basil,"Sweet, Sour, Umami",Cooling,Sweet,Balances Vata; gentle on Pitta; Kapha slightly elevated with cheese
+Lemon Garlic Salmon,"Sour, Pungent, Salty",Heating,Sour,Balances Vata and Kapha; may increase Pitta with high heat usage
+Pho with Vegetables,"Savory, Sweet, Sour",Cooling,Sweet,Balances all doshas when consumed as part of a balanced meal
+Chickpea Chaat,"Sweet, Sour, Salty",Heating,Sour,"Stimulates Vata and Pitta, reduces Kapha when cool and tangy"
+Shahi Paneer,"Sweet, Nutty",Cooling,Sweet,"Balances Vata and Kapha, reduces Pitta when mildly spiced"
+Quinoa Salad,"Sweet, Sour",Cooling,Sweet,Balances all three doshas with light ingredients
+Dosa with Sambar,"Sour, Spicy, Umami",Heating,Pungent,Balances Kapha; stimulates Vata digestion; can agitate Pitta if spicy
+Ratatouille (Indian-style),"Sweet, Sour",Cooling,Sweet,Balances all three doshas; gentle for Pitta
+Sushi Roll (Vegetarian),"Sweet, Umami",Cooling,Sweet,Balances Vata and Kapha; Pitta-neutral or slightly pacified
+Paneer Tikka Masala with Quinoa,"Sweet, Pungent, Sour",Heating,Pungent,Balances Pitta with cooling quinoa base; raises Kapha slightly with rich sauce
+Cauliflower Tempura,"Salty, Bitter",Heating,Pungent,"Increases Kapha, vata balancing in moderation"
+Paneer Bhurji Wrap,"Salty, Sweet",Cooling,Sweet,"Balances Vata, neutral for Pitta and Kapha"
+Spicy Shrimp Curry,"Pungent, Sweet",Heating,Pungent,"Increases Pitta, balances Vata, reduces Kapha"
+Miso Ramen,"Salty, Umami, Sweet",Cooling,Sweet,"Balances Vata, Pitta, Kapha"
+Roti with Ghee,"Sweet, Salty",Cooling,Sweet,"Balanced for Vata and Pitta, nourishing for Kapha"
+Sushi Roll (Salmon),"Umami, Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, slightly elevates Pitta with rich fats"
+Paneer Tikkas,"Salty, Pungent, Sweet",Heating,Pungent,"Stimulates Agni, balances Vata, may elevate Pitta if heavy"
+Biryani,"Sweet, Salty, Pungent",Heating,Pungent,"Increases Kapha when rich, balances Vata with spices"
+Vegetable Curry,"Sweet, Salty, Astringent",Cooling,Sweet,"Balances Kapha and Pitta, pacifies Vata if served warm"
+Lentil Dal,"Sweet, Pungent",Heating,Pungent,"Balances Vata, stimulates Kapha mildly"
+Cauliflower Rice Stir Fry,"Sweet, Salty, Umami",Cooling,Sweet,Balances all doshas when cooked with minimal oil
+Jollof Rice,"Sweet, Sour, Spicy",Heating,Sweet,"Balances Pitta, can mildly increase Kapha with oil."
+Makhani Paneer with Naan,"Sweet, Salty, Rich",Cooling,Sweet,Balances Vata and Kapha; gentle on Pitta if not overused.
+Mashed Sweet Potato with Ginger,"Sweet, Spicy",Cooling,Sweet,"Calms Vata, nourishes Kapha mildly; Pitta neutral."
+Muesli with Yogurt,"Sweet, Sour",Cooling,Sweet,Balances Vata and Kapha; cooling effect helps Pitta.
+Chutney Sampler,"Sweet, Sour, Astringent",Cooling,Sweet,"Balances all doshas, especially Vata and Kapha"
+Ghar ka Khichdi,"Sweet, Salty",Cooling,Sweet,"Calms Vata and Kapha, neutral to Pitta"
+Mutton Biryani,"Sweet, Spicy",Heating,Sweet,"Increases Pitta, balances Vata"
+Aged Cheddar Mac and Cheese,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata and Kapha, minimal Pitta"
+Caprese Salad with Olive Oil,"Sweet, Sour, Salty",Cooling,Sour,"Balances Vata and Pitta, neutral to Kapha"
+Butter Masala Pasta,"Sweet, Sour, Rich",Heating,Sweet,"Balances Vata, Increases Kapha with heavy cream"
+Makhani Paneer Wrap,"Sweet, Salty, Umami",Heating,Sweet,"Balances Vata, Mild Kapha reduction with yogurt dip"
+Soy-Glazed Salmon,"Salty, Sweet",Heating,Sweet,"Balances Kapha, may increase Pitta with rich fats"
+Makhani Paneer Tikka,"Sweet, Spicy, Sour",Heating,Pungent,"Balances Vata, increases Kapha with heavy cream"
+Veg Hakka Noodles,"Salty, Pungent, Sweet",Heating,Sweet,"Increases Kapha, balances Vata with vegetables intact"
+Rasam Pulao,"Sour, Sweet",Heating,Sour,"Balances Kapha, stimulates Agni, reduces Vata heavy moods"
+Chole Masala with Bhature,"Pungent, Sweet, Sour",Heating,Pungent,"Increases Pitta, balances Kapha with fiber-rich bhature portions"
+Gobi Matar,"Sweet, Sour, Pungent",Cooling,Pungent,"Balances Kapha, slightly aggravates Vata in excess"
+Ratatouille with Chickpeas,"Sweet, Sour",Cooling,Sweet,"Balances all doshas, especially Vata and Pitta"
+Pesto Pasta with Vegetables,"Sweet, Sour, Umami",Cooling,Sweet,Balancing all doshas with mindful portions
+Thai Green Curry with Tofu,"Pungent, Sour, Sweet",Heating,Pungent,"Increases Kapha, balances Vata with cooling coconut milk"
+Masala Chai with Biscuit,"Sweet, Spicy",Heating,Sweet,"Vata and Kapha calming, Pitta mildly aggravated by caffeine/tea"
+Caprese Salad with Indian twist,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Vata and Pitta, minimal Kapha influence"
+Roti with Dal Tadka,"Salty, Sweet, Pungent",Heating,Pungent,"Balances Vata, stimulates Pitta, mildly increases Kapha"
+Rice Pulao,"Sweet, Salty",Cooling,Sweet,"Balances Kapha, Pacifies Vata"
+Quinoa Salad with Cherries,"Sweet, Sour",Cooling,Sweet,"Balances Vata, Pitta"
+Tamarind Chutney,"Sour, Sweet",Cooling,Sour,"Increases Pitta, Balances Kapha"
+Spiced Chickpea Soup,"Sweet, Pungent, Astringent",Cooling,Sweet,"Balances Vata, Pitta, Kapha"
+Masoor Dal</Food>,"Sweet, Salty",Heating,Sweet,"Balances Vata, Pitta"
+Raj Kachori,"Sweet, Sour, Spicy",Heating,Sweet,"Increases Kapha, balances Vata"
+Paneer Parantha,"Sweet, Salty",Heating,Sweet,Balances Vata and Pitta
+Idli Sambhar,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Vata and Kapha, supports digestion; light for Pitta"
+Cauliflower Pakoda,"Sweet, Salty, Pungent",Heating,Pungent,"Increases Kapha when fried, balances Vata with legumes"
+Sambar with idli,"Sweet, Sour, Spicy",Cooling,Sour,"Balances Vata and Pitta, gentle on Kapha when served with idli"
+Veggie Sushi,"Salty, Sour",Cooling,Sour,"Balances Kapha and Pitta, light on Vata"
+Dockside Sushi Roll,"Umami, Salty",Cooling,Sour,"Balances Pitta, reduces Kapha"
+Rajpuri Paneer Tikka,"Pungent, Sweet",Heating,Pungent,"Balances Vata and Pitta, mildly increases Kapha"
+Rajma (Kidney Beans) with Rice,"Sweet, Salty",Heating,Sweet,"Increases Kapha, supports balanced Pitta when spiced moderately"
+Vegetable Spring Roll,"Sweet, Salty, Pungent",Heating,Pungent,"Increases Kapha in oily preparation, balances Vata with fiber content"
+Paneer Paratha with Spinach,"Sweet, Salty, Astringent",Heating,Sweet,"Balances Vata, strengthens Kapha when dairy-heavy, supports Pitta with greens"
+Hakka Noodles,"Salty, Sweet, Sour",Heating,Sweet,Balances Vata; can stimulate Kapha if greasy
+Rajbhog Rasgulla,Sweet,Cooling,Sweet,Balances Vata and Kapha; Pitta remains neutral unless sugar is excessive
+Rajkishmala Khichdi,"Sweet, Astringent",Cooling,Sweet,Balancing for Vata with gentle Pitta support
+Agnolotti Alfredo (Vegetarian),"Sweet, Salty, Umami",Heating,Sweet,"Balances Vata, may mildly increase Kapha with cheese content"
+Hasta Curry Veg,"Pungent, Sweet",Heating,Pungent,"Balances Pitta, supports Vata reduction in heavy meals"
+Gnocchi Pomodoro,"Sweet, Sour, Umami",Cooling,Sweet,"Balances all three doshas, with gentle Vata grounding"
+Biriyani (vegetarian),"Sweet, Salty, Pungent",Heating,Sweet,"Increases Kapha, balances Pitta"
+Grilled Paneer Sandwich,"Salty, Sweet, Pungent",Heating,Sweet,"Balances Kapha, stimulates Pitta"
+Masoor Dal with Spinach,"Sweet, Pungent",Cooling,Sweet,Balances Vata and Kapha
+Cauliflower Buffalo Wings,"Salty, Pungent",Heating,Pungent,"Increases Kapha, reduces Vata"
+Palak Chole,"Sweet, Pungent, Sour",Heating,Sweet,"Balances all doshas, with Kapha influence"
+Spicy Veg Curry,"Pungent, Sweet",Heating,Pungent,"Increases Vata and Pitta, balances Kapha in moderation"
+Keema Muttu (Minced Meat),"Salty, Spicy, Sour",Heating,Pungent,Increases Vata and Pitta; balances Kapha when lean
+Biriyani (Vegetarian),"Sweet, Salty, Spicy",Heating,Pungent,Balances all doshas when prepared with balanced spices
+Pho-inspired Veggie Noodle Bowl,"Umami, Sweet, Sour",Cooling,Sweet,Balances Kapha; light for Vata and Pitta
+Spicy Chickpea Wrap,"Pungent, Sweet, Astringent",Heating,Pungent,Stimulates Vata and Pitta; reduces Kapha when not heavy
+Lemon Herb Grilled Fish,"Sour, Salty, Fresh",Cooling,Sour,Balances Pitta; calms Vata; reduces Kapha when overdone
+Pulao/Biryani (Vegetarian),"Sweet, Salty",Heating,Sweet,"Balances Vata, Pitta; Slight Kapha increase"
+Butter Chicken (Punjabi style),"Sweet, Salty",Heating,Sweet,Balances Vata; Increases Pitta and Kapha
+Rogan Josh (Mutton),"Pungent, Spicy",Heating,Pungent,"Increases Pitta and Kapha, balances Vata"
+Tom Yum (Vegetarian),"Sour, Pungent",Cooling,Sour,Balances Kapha and Pitta; Vata slightly reduced
+Spiced Quinoa Salad,"Sweet, Astringent, Salty",Cooling,Sweet,"Balances Vata and Kapha, Pitta stable"
+Rajgira Roti with Amla chutney,"Sweet, Sour, Astringent",Cooling,Sour,"Balances Vata, supports digestion, reduces Kapha"
+Sushi Roll,"Salty, Umami, Sweet",Cooling,Sweet,"Balances Vata and Kapha, with light Pitta impact"
+Blue Cheese Risotto,"Creamy, Salty, Sour",Heating,Sour,"Balances Vata and Pitta, increases Kapha"
+Tamarind Rice (Chitranna),"Sour, Sweet, Salty",Cooling,Sour,Balances Vata and Pitta with acidity moderated by rice; Kapha neutral.
+Spinach Lasagna,"Sweet, Umami, Bitter",Cooling,Sweet,Balances Vata and Pitta; Kapha may rise with cheese-heavy layers.
+Tom Yum Veg,"Sour, Spicy, Salty",Heating,Pungent,"Balances Kapha and Pitta, mildly reduces Vata when sourness is kept moderate"
+Tiramisu (Vegetarian),Sweet,Cooling,Sweet,"Balances Vata and Kapha, mildly elevates Kapha if overeaten"
+Grilled Salmon with Herbs,"Salty, Umami",Cooling,Sweet,Balances Vata and Pitta; Kapha may be slightly increased with rich butter sauces
+Chili Garlic Noodles,"Pungent, Salty",Heating,Pungent,Increases Kapha and Pitta with high chili; balances Vata when moderate heat is present
+Rasam (South Indian Tomato Curry),"Sour, Bitter",Heating,Sour,"Lightens Kapha, balances Pitta, can dampen Vata in warmth"
+Hydrabadi Biryani,"Sweet, Pungent, Salty",Heating,Sweet,Balances all three doshas with careful oil use and spices
+Quinoa Paneer Bowl,"Sweet, Salty, Sour",Cooling,Sweet,"Balances Vata and Kapha, supports Pitta when not heavily spiced"
+Butter Rice,"Sweet, Rich",Cooling,Sweet,"Balances Vata, Pitta"
+Vegetable Stir Fry,"Sweet, Salty, Astringent",Cooling,Sweet,"Balances Vata, Kapha"
+Spicy Garlic Noodles,"Salty, Pungent",Heating,Pungent,"Increases Kapha and Pitta, balances Vata when consumed in moderation"
+Momos (Vegetable),"Sweet, Salty, Pungent",Cooling,Sweet,"Balances Vata and Pitta, elevates Kapha if fried, gentle for overall digestion"
+Sautéed Spinach with Garlic,"Bitter, Astringent, Salty",Cooling,Pungent,"Balances Vata and Pitta, mildly reduces Kapha"
+Jalfrezi,"Spicy, Sour",Heating,Pungent,"Balances Vata, can aggravate Pitta with excess chili"
+Ragi Dosa,"Bitter, Astringent",Cooling,Sour,"Balances Vata and Pitta, raises Kapha if served with ghee in excess"
+Lemon Hummus with Pita,"Sour, Salty, Umami",Cooling,Sour,"Balances Vata and Kapha, energizes Pitta with citrus"
+Butter Chicken (Makhani),"Sweet, Sour, Salty",Heating,Sweet,Increases Kapha; balances Pitta when spicy-sour elements are moderate
+Dd Bakery Chocolate Cake,"Sweet, Fatty",Heating,Sweet,Increases Kapha; balances Vata if eaten in moderation
+Tadka Dal,"Sweet, Pungent",Heating,Pungent,"Balances Vata, Reduces Kapha when spiced moderately"
+Paneer Tawa,"Sweet, Salty, Pungent",Heating,Pungent,"Balances Kapha, Invigorates Vata, moderates Pitta with mild chili"
+Rice Pulao with Vegetables,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, mild effect on Pitta"
+Quinoa Bowl with Roasted Veg,"Sweet, Umami",Cooling,Sweet,"Balances Vata and Kapha, gentle on Pitta"
+Aloo Gajjar Sabzi,"Sweet, Sour",Cooling,Sweet,"Calms Vata, mildly reduces Kapha when vegetables are steamed"
+Tomato Hummus Toast,"Sour, Salty, Umami",Cooling,Sour,Balances Vata and Pitta; may mildly increase Kapha if heavy on oil.
+Green Smoothie Bowl,"Sweet, Bitter",Cooling,Sweet,Calms Vata and Pitta; Kapha-friendly when not over-sweetened.
+Pulao (Veg Biryani variant),"Sweet, Salty",Heating,Sweet,"Balances Vata and Kapha, mildly energizing Pitta"
+Lentil Soup (Dal Tadka),"Sweet, Pungent, Astringent",Heating,Pungent,"Balances Vata with warmth, increases Kapha if heavy on ghee"
+Aloo Gajar Matar,"Sweet, Salty, Pungent",Heating,Sweet,"Balances Vata, may increase Kapha with high starch and oil"
+Rajma Masala,"Sweet, Sour, Pungent",Heating,Pungent,"Boosts Vata during prolonged cooking, increases Kapha in heavy portions"
+Kung Pao Paneer,"Pungent, Sweet, Sour",Heating,Pungent,Balances Vata; increases Kapha if sugar-heavy; Pitta stable with moderate chili
+Quinoa Bhel,"Sweet, Sour, Salty",Cooling,Sweet,Balances all doshas; light and digestible
+Rasam (Tomato Lentil)**,"Sour, Spicy",Heating,Pungent,"Increases Vata and Pitta, balances Kapha"
+Masala Omelette,"Salty, Pungent",Heating,Pungent,"Balances Vata, increases Pitta slightly"
+Tom Yum Pasta (Thai-Indian fusion),"Sour, Spicy (Pungent), Salty",Heating,Pungent,"Stimulates digestion; balances Vata, may raise Kapha with coconut milk richness"
+Green Coconut Chutney,"Sweet, Sour, Salty",Cooling,Sour,Balancing for Kapha and Pitta; Vata may feel cooled and calm
+Beetroot Roti,"Sweet, Earthy (Astringent)",Cooling,Sweet,"Balances Vata and Kapha; stimulates circulation, gentle on digestion"
+Mango Pickle Rice,"Sweet, Sour, Pungent, Salty",Heating,Pungent,Increases Kapha mildly; balances Vata and Pitta with fiber-rich mix
+Rasmalai,Sweet,Cooling,Sweet,"Calms Vata, reduces Pitta when eaten sparingly"
+Quinoa Kadi,"Bitter, Sour",Cooling,Sour,"Balances Vata and Pitta, mild Kapha reduction"
+Mysore Masala Dosa,"Salty, Spicy",Heating,Pungent,"Increases Kapha, balances Vata when consumed in moderation"
+Butter Garlic Naan,"Salty, Pungent",Heating,Pungent,"Balances Kapha, can aggravate Pitta with excessive butter"
+Mahi-Mahi Tikka,"Pungent, Salty",Heating,Pungent,"Heats Pitta, may balance Kapha with seafood variety"
+Gujarati Dhokla,"Sour, Sweet",Cooling,Sweet,"Heals Vata, balances Kapha"
+Vegetable Stir Fry with Tofu,"Sweet, Umami",Cooling,Sweet,"Balances Vata and Kapha, subtle Pitta reduction"
+Biriyani with Chicken,"Sweet, Pungent, Salty",Heating,Pungent,"Elevates Pitta, balances Vata with cooling yogurt side, increases Kapha in large portions"
+Ratatouille with Moong Dal,"Sweet, Sour, Astringent",Cooling,Sour,"Calms Vata, Moderates Pitta, reduces Kapha when oil-free"
+Pasta Alfredo with Vegetables,"Creamy, Salty, Sweet",Cooling,Sweet,Balances Vata; may increase Kapha if enriched with butter/cheese
+Butter Chicken (Light),"Sweet, Sour, Salty",Heating,Sweet,"Increases Kapha mildly, balances Vata and Pitta in moderation"
+Paneer Butter Masala with Peas,"Sweet, Salty, Sour",Heating,Sweet,Increases Kapha; balances Vata and Pitta with modest portions
+Lemon Rice with Cumin,"Sour, Sweet, Pungent",Cooling,Sour,"Balances Vata and Kapha, warms Pitta slightly"
+Ratatouille (Indian style),"Sweet, Sour, Umami",Cooling,Sweet,"Balances all three doshas, especially Vata and Kapha"
+Gheeya Bhaat (Bottle Gourd Rice),"Sweet, Mild",Cooling,Sweet,"Balances Vata and Kapha, soothing for sensitive digestion"
+Green Gram Curry (Cherupayar Pulissery),"Sweet, Sour, Astringent",Cooling,Sour,"Balances Vata and Kapha, pacifies Pitta"
+Margarita Pizza (Vegetarian),"Sweet, Salty",Heating,Sweet,"Balances Kapha, slightly increases Pitta"
+Channa Masala,"Sweet, Sour, Pungent",Heating,Pungent,"Balances Vata and Kapha, slightly increases Pitta"
+Tom Yum Pasta,"Salty, Sour, Pungent",Heating,Pungent,"Balances Vata, reduces Kapha"
+Paneer Pakora,"Sweet, Salty, Astringent",Heating,Pungent,"Increases Kapha, supports Vata balance"
+Chicken Tikka,"Pungent, Sweet",Heating,Pungent,"Increases Kapha, balances Vata with proper fats"
+Beetroot Salad,"Sweet, Sour, Astringent",Cooling,Sweet,"Balances Vata and Pitta, neutral for Kapha"
+Shrimp Scampi,"Sour, Salty, Umami",Cooling,Sour,"Balances Pitta, elevates Kapha if rich in butter"
+Kung Pao Tofu,"Sweet, Sour, Salty",Heating,Sour,"Balances Vata, Kapha"
+Falafel with Tahini,"Salty, Nutty",Cooling,Sweet,"Balances Vata and Kapha, slightly reduces Pitta"
+ChiliPaneer,"Pungent, Sweet",Heating,Pungent,"Increases Kapha, balances Vata"
+Spinach and Chickpea Curry,"Sweet, Pungent, Astringent",Heating,Pungent,"Balances Vata and Pitta, may increase Kapha if coconut milk is used"
+Fermented Dosa Batter Idli,"Mild, Sour",Cooling,Sour,"Balances Vata, neutral for Kapha, improves gut function"
+Garam Masala Potatoes,"Pungent, Sweet, Salty",Heating,Pungent,"Increases Kapha, balances Vata when served with yogurt or buttermilk"
+Quinoa Veg Pilaf,"Sweet, Nutty",Cooling,Sweet,"Balances all doshas, with light Kapha balance preference"
+Vegan Biryani,"Sweet, Pungent, Astringent",Heating,Pungent,"Balances Vata and Kapha, moderate Pitta adjustment"
+Rasam (Tomato-Temonade Soup),"Sour, Pungent",Heating,Sour,"Balances Vata, pacifies Kapha, mildly energizes Pitta"
+Mutton Korma,"Sweet, Sour, Astringent",Heating,Sweet,"Increases Kapha, elevates Pitta in heavy portions"
+Sushi Platter (Salmon Nigiri),"Umami, Salty",Cooling,Sweet,"Balances Vata and Kapha, stimulates Pitta with spicy wasabi"
+Pad Thai,"Sweet, Sour, Salty, Pungent",Heating,Sour,"Balances Kapha, stimulates Vata, manages Pitta with tamarind balance"
+Makhani Paneer with Spinach,"Sweet, Salty",Heating,Sweet,"Balances Vata and Pitta, increases Kapha with rich cream usage"
+Aloo Gosta (Aloo with Peas),"Sweet, Salty, Sour",Cooling,Sweet,"Balances Vata and Kapha, supports light digestion for Pitta"
+Pulao (Vegetable Rice),"Sweet, Salty",Cooling,Sweet,"Balances Vata, Pacifies Kapha"
+Rajma Chili,"Sweet, Pungent, Astringent",Heating,Pungent,"Balances Vata, increases Kapha tendency if heavy with beans"
+Miso Soup,"Salty, Umami, Astringent",Cooling,Sweet,"Calms Vata, balances Kapha modestly"
+Spicy Black Bean Tacos,"Pungent, Sweet, Salty",Heating,Pungent,"Stimulates Kapha and Pitta, nurtures Vata with fiber"
+Paneer Tikka Skewers,"Sweet, Pungent, Salty",Heating,Pungent,"Raises Pitta slightly, supports balanced Vata with protein"
+Green Moong Dal,"Sweet, Astringent",Cooling,Sweet,Balances Vata and Pitta; light for Kapha
+Quinoa Veg Pulao,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, stabilizes Pitta"
+Pasta Alfredo with Peas,"Creamy, Sweet, Salty",Cooling,Sweet,Balances Vata and Kapha; Pitta neutral to mild heating from pepper
+Chili Con Carne (Vegetarian Style),"Spicy, Sour, Savory",Heating,Pungent,Boosts Pitta and Kapha; Vata balanced by fiber and legumes
+Aloo Gajar,"Sweet, Sour",Cooling,Sweet,Balances all doshas
+Gyro Wrap,"Salty, Sour, Pungent",Heating,Pungent,"Balances Kapha and Pitta, may vitiate Vata if eaten cold"
+Falafel Pita,"Sweet, Salty, Sour",Cooling,Sweet,"Balances Vata, Kapha; light on Pitta when oil is moderate"
+Chili Paneer Stir-Fry,"Sweet, Pungent, Salty",Heating,Pungent,"Increases Pitta, balances Kapha with vegetables and fiber"
+Grilled Fish with Lemongrass,"Sour, Salty",Cooling,Sour,"Balances Pitta and Kapha, calms Vata in cooler preparations"
+Tandoori Shrimp,"Salty, Pungent",Heating,Pungent,"Balances Kapha, elevates Pitta if overused"
+Caprese Salad with Mozzarella,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Vata and Pitta, reduces Kapha if portioned with olive oil"
+Paneer Butter Masala Pizza,"Sweet, Salty, Umami",Heating,Sweet,"Increases Kapha and Pitta, balances Vata with moderate cheese content"
+Quinoa Lentil Salad,"Sweet, Astringent, Sour",Cooling,Sour,"Balances all doshas, light for Kapha, supports Vata and Pitta during hot days"
+Green Curry Tofu,"Salty, Sweet, Pungent",Heating,Pungent,Balances Vata and Kapha with coconut; may raise Pitta if very spicy
+Rajgira Chapati,"Sweet, Astringent",Cooling,Sweet,Balances Vata and Kapha; slightly reduces Pitta.
+Steamed Dumplings,"Sweet, Neutral",Cooling,Sweet,"Balances all three doshas with gentle, steamed preparation."
+Rajma Tawa Fry (With minimal oil),"Sweet, Salty, Spicy",Heating,Sweet,"Balances Vata, increases Kapha with heavy oil usage"
+Rajma (Red Kidney Beans),"Sweet, Earthy",Cooling,Sweet,Balances Kapha; supports Vata and Pitta with fiber-rich protein
+Tandoori Paneer Wrap,"Salty, Pungent",Heating,Pungent,Balances Vata; may increase Kapha due to dairy and oil content
+Spicy Chickpea Bowl,"Pungent, Salty",Heating,Pungent,Stimulates Vata and Pitta activity; Kapha may be pacified with balance of legumes
+Pulao with Nuts,"Sweet, Astringent",Cooling,Sweet,"Balances Vata, mildly pacifies Kapha with light spices"
+Pho-inspired Veg Noodle,"Salty, Sour, Sweet",Cooling,Sweet,"Balances Kapha, supports Vata under cold conditions"
+Grilled Tandoori Vegetables,"Salty, Sour",Heating,Sour,"Balances Vata and Kapha, may mildly reduce Pitta if spices are moderate"
+Quinoa Stir-Fry,"Savory, Sweet, Sour",Cooling,Sweet,"Balances Vata and Kapha, supports Pitta management"
+Butter Chicken (Paneer Version),"Sweet, Sour, Pungent",Heating,Pungent,"Increases Kapha, balances Pitta"
+Jeera Rice with Lentils,"Sweet, Aromatic",Cooling,Sweet,"Balances Vata and Kapha, supports digestion for Pitta"
+Rajbhog Rasgulla (Savory Variation),"Sweet, Salty",Cooling,Sweet,"Balances all doshas in moderation, avoids Kapha aggravation"
+Baked Falafel with Tahini,"Salty, Bitter",Cooling,Pungent,"Balances Kapha, mildly reduces Pitta"
+Chole Chana,"Sweet, Sour, Pungent",Heating,Pungent,Stimulates Pitta mildly; balances Kapha with high protein; Vata may be relieved by spicing
+Lentil Daal,"Sweet, Astringent",Heating,Sweet,Nourishes Vata and Kapha; Pitta can increase if overcooked and heavily spiced
+Ghee Roast Coffee Cake,"Sweet, Bitter",Heating,Sweet,Nourishes Kapha strongly; Vata balanced by ghee and nuts; Pitta watch caffeine and butter content
+Pulao with Saffron,"Sweet, Astringent",Cooling,Sweet,"Balances Vata and Kapha, supports Pitta stability"
+Phoed Rice with Vegetables,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata and Pitta, balances Kapha moderately"
+Quinoa Salad with Herbs,"Sweet, Sour, Astringent",Cooling,Sweet,"Balances all doshas, particularly stabilizes Kapha"
+Ratatouille with Chaat Salt,"Sweet, Sour, Umami",Cooling,Sweet,"Balances Pitta, Slightly Stimulates Vata"
+Penne Arrabbiata,"Pungent, Sour",Heating,Pungent,"Increases Vata, pacifies Kapha"
+Quinoa Kofta Curry,"Sweet, Pungent",Heating,Pungent,"Balances Pitta, Pacifies Kapha"
+Vegetable Paella,"Sweet, Salty, Sour",Cooling,Sweet,"Balances Kapha, Pacifies Vata"
+Quinoa Salad with Mango,"Sweet, Sour, Astringent",Cooling,Sweet,Balances Vata and Pitta; lightly reduces Kapha when mango is ripe
+Caprese Pasta with Basil,"Sweet, Sour, Umami",Cooling,Sweet,Balances Vata and Pitta; light on Kapha unless fatty cheese is used
+Sushi Nigiri,"Sweet, Umami",Cooling,Sweet,"Balances Vata and Kapha; light on digestion, supports Pitta balance"
+Butter Chicken (Indian-style),"Sweet, Salty, Sour",Heating,Sweet,"Increases Pitta, can imbalance Vata if rich"
+Spicy Shrimp Tacos,"Pungent, Sour, Salty",Heating,Pungent,"Increases Pitta, balances Kapha with citrus toppings"
+Mango Chutney with Rice,"Sweet, Sour, Astringent",Heating,Sweet,"Balances Kapha, stimulates Pitta with sugar and spice"
+Seb Tikki (Vegetable Cutlets),"Sweet, Sour, Salty",Cooling,Sweet,"Balances Vata, pacifies Kapha"
+Shrimp Curry,"Sweet, Spicy, Sour",Heating,Pungent,"Balances Kapha, supports Pitta and Vata regulation"
+Tandoori Roti,"Salty, Toasted",Heating,Sweet,"Balances Vata and Kapha, mildly increases Pitta"
+Rajma (Kidney Beans),"Sweet, Salty, Pungent",Heating,Pungent,"Balances Vata, increases Kapha"
+Quinoa Veg Stir Fry,"Sweet, Salty, Umami",Cooling,Sweet,Balancing for Vata and Kapha; light for Pitta
+Mushroom Alfredo with Spinach,"Umami, Salty, Sweet",Cooling,Sweet,"Balances Vata and Kapha, mildly pacifies Pitta when not overly rich"
+Rasam (South Indian Tangy SouP),"Sour, Pungent",Heating,Pungent,"Balances Kapha, stimulates appetite and digestion"
+Kofta Curry,"Sweet, Sour, Salty",Heating,Sweet,May increase Kapha; balances Vata with spices
+Pesto Pasta (Vegetarian),"Sweet, Sour, Umami",Cooling,Sweet,"Balancing for Pitta, gentle for Vata, increases Kapha if portions are rich in oil"
+Sushi Rice Bowl with Avocado,"Sweet, Sour, Umami",Cooling,Sweet,"Balances Vata, can mildly aggravate Kapha if heavy avocado portion"
+Black Pepper Pasta,"Pungent, Salty",Heating,Pungent,"Increases Pitta and Kapha, balances Vata when portions are modest"
+Koorma (Korma),"Sweet, Nutty",Cooling,Sweet,"Pacifies Vata and Pitta, increases Kapha if heavy cream used"
+Rajgira Thepla,"Sweet, Astringent",Cooling,Sweet,"Balances Vata and Kapha, gentle for Pitta"
+Jowar Bajra Roti,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, Slight Pitta increase"
+Methi Malai Murg,"Sweet, Bitter",Cooling,Sweet,"Balances Vata and Pitta, Mild Kapha increase"
+Zucchini Pasta with Garlic,"Sweet, Pungent",Cooling,Pungent,"Balances Vata, Slight Pitta rise"
+Chili Lime Tacos,"Salty, Sour, Pungent",Heating,Pungent,"Increases Kapha and Pitta, Balances Vata"
+Butter Chicken (Chicken Masala),"Sweet, Salty, Sour",Heating,Sweet,"Balances Pitta, increases Kapha when rich/spicy"
+Sushi Roll (vegetarian),"Umami, Sweet, Sour",Cooling,Sweet,"Balances Vata and Kapha, gentle Pitta modulation"
+Tom Yum Soup (vegetarian),"Sour, Spicy (pungent)",Heating,Pungent,"Reduces Kapha, balances Vata, energizes Pitta"
+Fajitas with Peppers,"Savoury, Sour",Heating,Sour,Stimulates Pitta; balances Kapha with vegetables and lean meat
+Lemon Chickpea Salad,"Sour, Sweet",Cooling,Sour,Balances Vata; pacifies Kapha; light on Pitta
+Butter Masala Paneer Wrap,"Sweet, Salty, Pungent",Heating,Pungent,Increases Kapha; balances Vata with dairy hydration
+Grilled Halloumi with Herbs,"Salty, Sour, Umami",Cooling,Sweet,Balances Vata and Kapha; stabilizes Pitta
+Butter Chicken (Chicken Curry),"Sweet, Pungent",Heating,Pungent,"Increases Pitta, Balances Vata"
+Rajma Tawa,"Sweet, Sour",Heating,Sweet,"Increases Kapha, Balances Vata"
+Gobi Paratha,"Sweet, Pungent",Heating,Pungent,"Increases Pitta, Balances Kapha"
+Cauliflower Sabzi,"Sweet, Astringent, Bitter",Cooling,Sweet,"Balances Kapha; light on Pitta, soothing for Vata"
+Fish Tikka,"Pungent, Sour",Heating,Pungent,"Balances Vata, can aggravate Pitta with excessive spice"
+Paneer Spinach Roll,"Sweet, Salty",Cooling,Sweet,Balances Vata and Kapha; supports Pitta when prepared with less oil
+Rajgaro Kofta,"Sweet, Astringent",Cooling,Sweet,"Balances Vata and Kapha, modestly reduces Pitta"
+Spicy Lentil Soup,"Pungent, Bitter",Heating,Pungent,"Balances Vata, increases Pitta"
+Kichdi,"Sweet, Salty, Astringent",Cooling,Sweet,"Balances all three doshas, reduces excess Kapha"
+Makhani Dosa,"Sweet, Umami",Heating,Sweet,"Balances Vata, Calms Pitta"
+Pasta Alfredo with Paneer,"Creamy, Salty",Cooling,Sweet,"Balances Vata, Calms Kapha"
+Rajgira Kichdi,"Salty, Astringent",Cooling,Sweet,"Balances Vata, Reduces Kapha"
+Palak Chana,"Sweet, Sour",Cooling,Sweet,"Balances Vata, Reduces Kapha"
+Mushroom Jeera,"Salty, Pungent",Cooling,Pungent,"Balances Vata and Kapha, Slightly Increases Pitta"
+Soyful Curry with Veggies,"Sweet, Sour, Spicy",Heating,Sour,"Increases Pitta, Balances Kapha"
+Daali Chawal (Rice with Lentils),"Sweet, Sour, Salty",Heating,Sour,"Balances Kapha and Pitta, light on Vata when cooked with ghee"
+Quinoa Salad with Beans,"Sweet, Sour",Cooling,Sweet,"Balances Vata and Kapha, light for Pitta"
+Ghee Roast Chicken,"Salty, Umami, Sweet",Heating,Sweet,"Balances Vata, increases Pitta"
+Mutton Curry,"Spicy (Pungent), Salty, Sour",Heating,Pungent,"Increases Vata and Pitta, reduces Kapha slightly"
+Ratatouille with Chilli,"Sweet, Sour, Bitter",Cooling,Sweet,"Balances Vata and Kapha, mildly increases Pitta"
+Butter Lettuce Wraps,"Sweet, Salty, Astringent",Cooling,Sweet,Balances all three doshas with gentle emphasis on Vata
+Chole with Rice,"Sweet, Sour, Pungent",Heating,Pungent,"Balances Kapha, Pitta"
+Sushi,"Umami, Salty",Cooling,Sweet,"Balances Kapha, Pitta"
+Paneer Burji,"Salty, Sweet",Cooling,Sweet,"Balances Vata, Kapha"
+Pho Soup (Vietnamese),"Sweet, Umami, Salty",Cooling,Sweet,"Balances Vata and Kapha, soothing for Pitta"
+Green Gram Dosa,"Sweet, Astringent, Pungent",Heating,Pungent,"Balances Vata, reduces Kapha when cooked with spices"
+Dal Bukhara,"Sweet, Bitter",Cooling,Sweet,Balances Vata; can mildly reduce Kapha when paired with spices
+Smoked Salmon Sushi,"Salty, Sour, Umami",Cooling,Sour,Balances Kapha; can relax Vata with balanced portions
+Spicy Tofu Stir-fry,"Pungent, Sweet",Heating,Pungent,Increases Kapha and Pitta; supports Vata balance with sesame oil usage
+Ghevar with Milk,"Sweet, Rich",Cooling,Sweet,Balances Vata and Kapha; supports Pitta moderation when eaten sparingly
+Butter Paneer Naan Burger,"Sweet, Salty, Astringent",Heating,Sweet,"Balances Vata, elevates Kapha slightly"
+Dal Tajine,"Sweet, Sour, Salty",Heating,Sour,"Balances Vata, reduces Kapha, supports Pitta calm"
+Roti with Guacamole,"Salty, Sour, Sweet",Cooling,Sweet,"Balances Vata and Kapha, stabilizes Pitta"
+Rajma Chowder,"Sweet, Salty",Cooling,Sweet,Balances Vata; mildly calms Kapha and Pitta when lightly seasoned
+Tandoori Chicken (Marinated),"Pungent, Salty, Sour",Heating,Pungent,Increases Pitta; balances Vata with dairy accompaniment
+Pasta Aglio e Olio,"Salty, Pungent",Heating,Pungent,"Balances Vata, mild Kapha increase"
+Butter Paneer Masala Pasta,"Sweet, Salty, Rich",Heating,Sweet,"Balances Vata, increases Kapha, supports Pitta metabolism"
+Vindaloo Curry,"Pungent, Sour",Heating,Sour,"Increases Pitta, reduces Kapha"
+Ghee Rice with Nuts,"Sweet, Rich",Cooling,Sweet,"Balances Vata, pacifies Pitta"
+Spinach Chole,"Sweet, Salty, Bitter",Cooling,Sweet,"Balances Vata, mildly increases Kapha, neutral for Pitta"
+Thai Green Curry (Vegetarian),"Spicy, Sour, Sweet",Heating,Pungent,"Balances Kapha, reduces Vata, elevates Pitta in large portions"
+Ratatouille with Yogurt,"Sweet, Sour, Umami",Cooling,Sweet,"Balances Vata and Kapha, lightly stimulates Pitta"
+Paneer Butter Masala Burger,"Sweet, Salty, Umami",Heating,Sweet,"Balances Vata and Pitta, increases Kapha when overconsumed"
+Mulligatawny Soup,"Sweet, Sour, Pungent",Heating,Pungent,"Balances Vata, reduces Kapha, supports digestion"
+Dosa with Coconut Chutney,"Coconut sweetness, Spicy",Cooling,Sweet,"Balances Vata, pacifies Kapha, supports Pitta in moderation"
+Rasam (Tomato Rasam),"Sour, Pungent",Heating,Sour,"Balances Vata and Pitta, Reduces Kapha"
+Pasta Alfredo (Creamy),"Sweet, Fatty",Cooling,Sweet,Balances Vata; may increase Kapha due to richness
+Poha,"Sweet, Salty",Cooling,Sweet,"Calms Vata, balances Kapha; light for Pitta"
+Sushi Roll with Avocado,"Sweet, Umami",Cooling,Sweet,"Balancing Vata, gentle for Pitta, Kapha-neutral"
+Spinach Quiche,"Sweet, Salty",Cooling,Sweet,"Balances Kapha, supports Vata and Pitta gently"
+Pulao with Mixed Veg,"Sweet, Salty, Astringent",Heating,Sweet,"Balances Vata, pacifies Pitta, mild Kapha rise"
+Roti with Garlic Chutney,"Pungent, Salty",Heating,Pungent,"Stimulates Pitta, balances Kapha, light on Vata"
+Spinach Quinoa Bowl,"Sweet, Astringent",Cooling,Sweet,"Balances Vata and Kapha, supports Pitta control"
+Grilled Fish Tikka,"Salty, Pungent",Heating,Pungent,"Balances Vata; regulates Pitta, may reduce Kapha when paired with greens"
+Tofu Stir-Fry with Veg,"Sweet, Salty, Sour",Cooling,Sweet,"Balances Vata and Kapha, gentle on Pitta"
+Chili Lemon Rice,"Sour, Spicy, Salty",Heating,Pungent,"Increases Pitta and Kapha, balances Vata with acidity"
+Paneer Kofta,"Sweet, Astringent",Cooling,Sweet,"Balances all doshas, with gentle Kapha elevation"
+Tom Yum Noodle Soup,"Sour, Spicy (Pungent)",Heating,Sour,"Balances Kapha, Reduces Vata"
+Grilled Lemon Garlic Shrimp,"Sour, Salty, Astringent",Cooling,Sour,"Balances Kapha, Reduces Pitta"
+Saag Aloo with Tempeh,"Sweet, Bitter, Astringent",Cooling,Sweet,"Balances Vata and Kapha, mild Pitta impact"
+Biriyani with Raita,"Sweet, Sour, Spicy",Heating,Sweet,"Increases Kapha, balances Vata"
+Garam Masala Paneer Wrap,"Sweet, Salty, Spicy",Heating,Pungent,Balances Vata; increases Kapha and Pitta slightly
+Kale Pulao with Chickpeas,"Salty, Sour, Sweet",Cooling,Sweet,"Balances Vata and Pitta, reduces Kapha"
+Lentil Dal with Turmeric,"Sweet, Bitter, Astringent",Heating,Sweet,"Balances Vata, reduces Kapha, Pitta balanced"
+Spicy Chickpea Curry,"Sweet, Sour, Spicy",Heating,Pungent,"Increases Pitta, balances Vata, reduces Kapha"
+Greek Salad with Feta,"Salty, Sour, Astringent",Cooling,Sour,"Balances Vata and Kapha, slight Pitta increase"
+Green Gram Salad,"Astringent, Bitter",Cooling,Sour,"Balances Vata, reduces Kapha, cools Pitta"
+Tomato Basil Soup with Grilled Cheese,"Sweet, Sour, Salty",Cooling,Sour,Calms Vata and Kapha; light for Pitta
+Paneer Butter Masala with Naan,"Sweet, Salty, Pungent",Heating,Pungent,Heats Kapha and Pitta slightly; balances Vata with dairy
+Shakshuka (Eggs with Tomato Pepper sauce),"Sweet, Sour",Heating,Sour,"Balances Kapha, Increases Pitta with excess oil"
+Baingan Bharta (Smoked Eggplant Mash),"Sweet, Pungent, Bitter",Cooling,Pungent,"Balances Vata, Mildly increases Kapha with oil use"
+Quinoa Kathi Roll,"Sweet, Sour, Salty",Cooling,Sweet,Balances Vata and Kapha; Pitta remains stable with balanced spices
+Seafood Paella,"Salty, Umami",Heating,Sweet,Balances Pitta; supports Vata with light olive oil use
+Quinoa Pilaf with Vegetables,"Sweet, Astringent",Cooling,Sweet,Balances all doshas; especially Vata and Kapha when mixed with legumes
+Mushroom Risotto (Indian style),"Creamy, Umami, Salty",Cooling,Sweet,"Balances Vata, Neutral for Pitta and Kapha"
+Butter Garlic Pasta,"Sweet, Pungent",Cooling,Pungent,"Balances Vata, elevates Kapha with dairy richness"
+Garam Masala Chai,"Sweet, Astringent",Heating,Sweet,"Stimulates Kapha, warms Vata, steady for Pitta"
+Murmura Bhaji,"Salty, Sweet",Heating,Sweet,"Balances Vata, pacifies Kapha when cooked with vegetables"
+Roti with Lentil Curry,"Salty, Sweet",Cooling,Sweet,"Balances Vata, Pitta; stabilizes Kapha when portions are moderate"
+Rajpaneer Wrap,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Kapha, neutral for Pitta"
+Cauliflower Rice Bowl,"Sweet, Nutty",Cooling,Sweet,"Balances Vata and Kapha, supports Pitta control"
+Paneer Fried Rice,"Sweet, Salty, Umami",Heating,Sweet,"Balances Vata, mildly elevates Kapha"
+Rasam (Tomato Sambhar),"Sour, Salty, Pungent",Heating,Sour,"Balances Vata and Pitta, reduces Kapha"
+Quinoa Pulses Salad,"Sweet, Sour, Astringent",Cooling,Sweet,Balances all doshas
+Spicy Szechuan Noodles,"Sweet, Pungent, Salty",Heating,Pungent,"Increases Vata and Kapha, stimulates digestion; may aggravate Pitta"
+Sea Bass with Herb Rub,"Salty, Sour",Cooling,Sour,"Balances Vata and Pitta, gentle on Kapha"
+Prawn Biryani,"Sweet, Spicy, Salty",Heating,Sweet,"Balances all doshas with richness, may elevate Kapha"
+Tandoori Chicken (Tofu-based),"Pungent, Salty",Heating,Pungent,"Balances Kapha, Slightly increases Pitta, stabilizes Vata"
+Lentil Dahl (Dal Fry),"Sweet, Pungent, Astringent",Heating,Pungent,"Pacifies Vata, balances Kapha, elevates Pitta slightly with chilies"
+Caprese Salad (Indian twist with Paneer),"Sweet, Sour, Bitter",Cooling,Sweet,Balances all three doshas; gentle Vata pacifier
+Rajgira Dosa,"Sour, Pungent",Heating,Pungent,"Balances Kapha, stabilizes Vata, improves Pitta when not over-spiced"
+Cauliflower Gratin,"Salty, Sweet, Sour",Heating,Sweet,"Balances Vata and Pitta, increases Kapha with cheese content"
+Grilled Paneer Wrap,"Salty, Sweet, Astringent",Heating,Sweet,Balances Vata; can increase Kapha and mildly elevate Pitta with cheese
+Raj Patha Biryani,"Sweet, Pungent, Astringent",Heating,Pungent,"Balances Vata, increases Kapha, regulates Pitta through spice content"
+Shakshuka with Indian Twist,"Sweet, Sour, Salty",Cooling,Sweet,"Balances Vata and Pitta, light on Kapha"
+Cauliflower Bhindi,"Sweet, Sour, Astringent",Cooling,Sweet,Balances all three doshas with gentle effects
+Tandoori Chicken Paneer Wrap,"Spicy, Salty, Sour",Heating,Pungent,"Pacifies Vata, Balances Pitta"
+Aubergine Biryani,"Sweet, Spicy, Astringent",Heating,Pungent,"Balances Kapha with Vata, moderates Pitta through cooling yogurt"
+Spicy Szechuan Tofu,"Pungent, Sour",Heating,Pungent,Stimulates Kapha and Pitta; reduces Vata through heat and spice balance
+Samosa (vegetable),"Sweet, Salty, Pungent",Heating,Pungent,Increases Kapha and Pitta with fried filling; Vata neutral or slightly aggravated by heavy pastry
+Mizo Chicken Curry,"Pungent, Sour",Heating,Pungent,Stimulates Pitta and Kapha; balances Vata with warmth and spices
+Creamy Pasta Alfredo,"Sweet, Salty",Cooling,Sweet,Balances Vata; may increase Kapha if rich cream and cheese are used; Pitta neutral
+Keema Pulao,"Salty, Umami, Pungent",Heating,Pungent,Raises Pitta with spiced meat; balances Vata when paired with vegetables
+Tandoori Chicken (tofu variant),"Spicy, Salty",Heating,Pungent,"Stimulates Pitta and Kapha, calms Vata with cooling yogurt accompaniment"
+Roti with Curry Vegetables,"Sweet, Salty",Cooling,Sweet,Balances all doshas with fiber-rich vegetables and whole grains
+Mango Chaat,"Sweet, Sour, Salty",Cooling,Sweet,"Pacifies Vata, mildly increases Kapha with sugar syrup"
+Aloo Tikki,"Sweet, Sour, Spicy",Heating,Pungent,"Balances Vata; stimulates Agni, may increase Kapha"
+Cucumber Raita,"Sweet, Salty, Bitter",Cooling,Sweet,Balances Vata and Pitta; reduces Kapha tendency
+Sev Puri,"Salty, Sour, Sweet",Heating,Sweet,Increases Kapha; balances Vata with crunchy textures
+Fried Rice,"Salty, Umami, Pungent",Heating,Pungent,Increases Pitta; reduces Kapha through activity-based digestion
+Vegetable Spring Rolls,"Sweet, Sour, Salty",Cooling,Sweet,Balances Kapha; light for Vata and Pitta with dipping sauce
+Masala Gobhi,"Pungent, Sweet",Heating,Pungent,Balances Vata; reduces Kapha when eaten with greens
+Corn Soup,"Sweet, Salty",Cooling,Sweet,Balances Vata and Kapha; light for Pitta
+Gujarati Thali Snack Mix,"Sweet, Salty, Spicy",Heating,Pungent,"Elevates Kapha, balances Vata with yogurt dips"
+Idiyappam with Coconut,"Sweet, Creamy",Cooling,Sweet,Balances Vata and Kapha; energizes Pitta mildly
+Aloo Gojju,"Sweet, Sour, Spicy",Heating,Pungent,Balances Vata; can elevate Pitta with chilies
+Curry Leaves Dosa,"Umami, Spicy",Heating,Pungent,Balances Vata; reduces Kapha with greens-based batter
+Paneer Do Pyaza,"Sweet, Sour, Spicy",Heating,Pungent,"Balances Vata and Pitta, increases Kapha with cheese content"
+Hazelnut Pulao,"Sweet, Nutty",Cooling,Sweet,Balances all doshas; energizes Kapha with nuts
+Fennel Spice Rice,"Sweet, Aromatic",Cooling,Sweet,Balances Vata; light for Kapha and Pitta
+Curry Laksa,"Spicy, Sour, Umami",Heating,Pungent,Balances Kapha; elevates Pitta with coconut milk richness
+Paneer Pulao,"Sweet, Salty, Umami",Cooling,Sweet,"Balances Vata, Kapha; moderate for Pitta"
+Tom Kha Soup,"Sweet, Sour, Spicy",Cooling,Sour,Balancing for Vata and Kapha; Pitta may rise with lime
+Raita with Cucumber,"Sweet, Salty",Cooling,Sweet,"Balances Vata and Pitta, reduces Kapha tendency"
+Aish Fula Dal,"Sweet, Nutty",Cooling,Sweet,Balances all doshas; gentle digestion
+Methi Thepla with Yogurt,"Sweet, Salty, Astringent",Cooling,Sweet,Balances Vata and Kapha; yogurt dampens Kapha further
+Coconut Rice Pudding,"Sweet, Creamy",Cooling,Sweet,Balances Vata and Kapha; Pitta energized with spices kept moderate
+Garam Masala Chana,"Sweet, Sour, Spicy",Heating,Pungent,Balances Vata; increases Pitta with chili presence
+Paneer Kulcha,"Sweet, Salty",Heating,Sweet,Balances Vata and Kapha; Pitta may rise with fat content
+Mango Rice with Pepper,"Sweet, Spicy",Heating,Sweet,Balances Vata; Kapha may rise with coconut oil
+Carrot Halwa,"Sweet, Rich",Cooling,Sweet,Balances Vata and Kapha; energizes Pitta with diurnal pattern
+Paneer Bhuna,"Sweet, Spicy",Heating,Pungent,Balances Vata; increases Kapha with heavy fat usage
+Sundal (South Indian Chickpeas),"Sweet, Nutty",Cooling,Sweet,Balances all three doshas with legume protein
+Herbed Couscous,"Sweet, Umami",Cooling,Sweet,Balances Vata and Pitta; light for Kapha
+Paneer Shahi Korma,"Sweet, Rich, Nutty",Cooling,Sweet,Balances Vata and Kapha; Pitta may rise with richness
+Lentil Salad,"Sweet, Sour, Fresh",Cooling,Sweet,Balances all doshas; especially Vata and Kapha
+Tomato Soup with Basil,"Sweet, Sour, Fresh",Cooling,Sweet,Balances Vata and Pitta; Kapha neutralized with oats crackers
+Spiced Pineapple Rice,"Sweet, Sour, Spicy",Heating,Sweet,Balances Pitta; Kapha elevated with pineapple sweetness
+Beetroot Poriyal,"Sweet, Nutty",Cooling,Sweet,Balances Vata and Pitta; supports Kapha stability
+Mushroom Bruschetta,"Umami, Sweet, Silky",Cooling,Sweet,Balances all doshas with mushroom grounding flavor
+Saffron Milk,"Sweet, Floral",Cooling,Sweet,Balances Vata and Pitta; Kapha adjust with portion size
+Spinach Tofu Bhurji,"Sweet, Salty, Umami",Cooling,Sweet,Balances Vata and Kapha; Pitta energized by iron-rich greens
